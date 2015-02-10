@@ -3,5 +3,5 @@ Definition of Use Cases that are used to derive requirements in reTHINK-project/
 
 ### [Big User Scenario](https://github.com/reTHINK-project/use-cases/wiki/Big-User-Scenario)
 ### [Use Cases](https://github.com/reTHINK-project/use-cases/wiki/use-cases)
-### [Criteria to Measure User Scenarios](https://github.com/reTHINK-project/use-cases/wiki/Criteria)
+### [Criteria to Measure User Scenarios](https://github.com/reTHINK-project/use-cases/wiki/Scenario---Use-Cases-Selection-Criteria)
 ### [D1.1 Table of Contents](/docs/D1.1/toc.md)
