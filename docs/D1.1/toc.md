@@ -34,9 +34,7 @@
 
 3.5) Change of Value Chains and Impact on Business Ecosystems
 
-4) Business Processes for the automation of Partnership and Service life-cycle managemen
-
-_Define main business processes to be considered for reTHINK governance purposes including service (Hyperty) life-cycle management processes (e.g. concept, design deployment, publish, discovery and binding) and stakeholders relationship life-cycle management processes (e.g. procurement, negotiation, cooperation setup, policy design, policy enforcement,  .. )._
+[4) Business Processes](business%20processes/business%20processes.md)
 
 4.1) Related Work
 
