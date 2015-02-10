@@ -18,7 +18,7 @@
 
 2.6)	Technical implications 
 
-3) Business Models and Eco Systems
+3) Business Models and Eco Systems (_I would suggest to have this chapter before the use cases since we should introduce some business concepts (eg Business Broker) that will impact the user scenarios. It would also facilitate user scenarios understanding. I'm also missing Related Work?_
 
 3.1) Value Chains
 
@@ -33,3 +33,13 @@
 3.4) Business Models for chosen Scenarios
 
 3.5) Change of Value Chains and Impact on Business Ecosystems
+
+4) Business Processes for the automation of Partnership and Service life-cycle managemen
+
+_Define main business processes to be considered for reTHINK governance purposes including service (Hyperty) life-cycle management processes (e.g. concept, design deployment, publish, discovery and binding) and stakeholders relationship life-cycle management processes (e.g. procurement, negotiation, cooperation setup, policy design, policy enforcement,  .. )._
+
+4.1) Related Work
+
+4.2) Service (Hyperty) life-cycle management
+
+4.3) Partnership life-cycle management
