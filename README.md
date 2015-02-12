@@ -18,7 +18,7 @@ The reTHINK project addresses use-cases and business models in one work package.
 
 [Contextual Enriched Communication in Smart Enterprises](../../wiki/Contextual-Enriched-Communication-in-Smart-Enterprises)<br/>
 [Collaborative Entrepreneurship in Smart Cities](../../wiki/Collaborative-entrepreneurship-in-Smart-Cities)<br/>
-[Dynamic Legal Policies Enforcement]../../wiki/Dynamic-Legal-Policies-Enforcement)<br/>
+[Dynamic Legal Policies Enforcement](../../wiki/Dynamic-Legal-Policies-Enforcement)<br/>
 ###### [Actors and Roles](../../wiki/Setting-the-Scene)
 -----
 
