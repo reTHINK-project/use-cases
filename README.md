@@ -24,7 +24,8 @@ The reTHINK project addresses use-cases and business models in one work package.
 
 ###### Use Cases
 -----
-[Use Cases](../../wiki/use-cases)
+[Use Cases](../../wiki/Use-Case-Categories)
+
 ##### Deliverables
 -----
 [D1.1 Use cases and Sustainable Business models for reTHINK](/docs/D1.1/toc.md)
