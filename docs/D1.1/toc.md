@@ -22,7 +22,7 @@
 
 3.1) Value Chains
 
-3.2) Business Roles
+3.2) [Business Roles](business-models/business-roles.md)
 
 3.3) Business Models
 
