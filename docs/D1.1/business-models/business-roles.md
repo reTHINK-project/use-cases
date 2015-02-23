@@ -35,9 +35,23 @@ Similarly, if a site allows login with Google or Twitter credentials then Google
 
 In perimeter authentication, a consumer needs to be authenticated only once (single sign-on). The consumer obtains a security token which is then validated by an Identity Assertion Provider for each system that the consumer needs to access.
 
+#### Identified Service Consumer
+
+A service consumer that is identified by a Identity Service Provider.
+
+#### Anonymous Service Consumer
+
+A service consumer that is not identified.
+
 #### Communication Service Provider (CSP)
 
 A Service Provider that manages the delivery of Communication services e.g. telephony, chat, to Communication Service Consumers. NSP and CSP roles can be played by the same Service Provider actor.
+
+#### Conversation / Communication Participant
+
+A Service Consumer that communicates with another Service Consumer by using communication services from one or more CSP e.g., audio call. 
+
+The Participant that organise and invites other consumers to participate in conversations are called Organisers or (Owners?).
 
 #### Network Service Provider
 
