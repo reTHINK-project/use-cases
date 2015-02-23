@@ -21,8 +21,10 @@ Depending on the Business Model used a service provider may not have a business 
 A Service Provider may provide different types of services like Communication Services (e.g. telephony), Identity Management Services (e.g. social network), Connectivity Services (e.g. Internet Access)
 ..
 
-#### Identity Service Provider (to be adapted, source: [wikipedia](http://en.wikipedia.org/wiki/Identity_provider) )
+#### Identity Service Provider
 
+ _to be adapted, source: [wikipedia](http://en.wikipedia.org/wiki/Identity_provider)_
+ 
 An Identity Service Provider (IdP) is as a kind of service provider that creates, maintains, and manages identity information for service consumers and provides consumer authentication to other service providers, such as with web browser profiles responsible for:
 (a) providing identifiers for consumers looking to interact with a system, and 
 (b) asserting to such a system that such an identifier presented by a consumer is known to the provider, and 
