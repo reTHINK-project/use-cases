@@ -43,6 +43,10 @@ A Service Provider that manages the delivery of Communication services e.g. tele
 
 A Service Provider that sells bandwidth or network access by providing direct Internet backbone access to the Internet. Network service providers may consist of telecommunications companies, data carriers, wireless communications providers, Internet service providers, and cable television operators offering high-speed Internet access.
 
+#### Business Broker
+
+Is a Service Provider that assists or orchestrates the delivery of services involving more than one service provider.
+
 #### Application Service Consumer
 
 #### Application Service Provider
