@@ -5,7 +5,7 @@ The reTHINK project addresses use-cases and business models in one work package.
 ##### Introduction
 -----
 [Topics to be covered](../../wiki/Topics-to-Be-Addressed-in-User-Scenarios)<br/>
-[Selection Criteria](../../wiki/Scenario---Use-Cases-Selection-Criteria)<br/>
+[Selection Criteria](../../wiki/Usage-Scenario--Selection-Criteria)<br/>
 [Setting the Scene](../../wiki/Setting-the-Scene)
 ###### User Scenarios
 -----
