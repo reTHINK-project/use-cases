@@ -65,5 +65,23 @@ Is a Service Provider that assists or orchestrates the delivery of services invo
 
 #### Application Service Consumer
 
+A consumer who utilizes an application for exchange of information or content via a public network.
+
 #### Application Service Provider
+
+#### Application Provider
+
+Developer of an application.
+
+#### Content Provider
+
+#### Access Provider
+
+#### Hosting Provider
+
+#### Charging Provider
+
+#### Billing Provider
+
+#### 
 
