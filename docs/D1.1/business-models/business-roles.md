@@ -83,5 +83,9 @@ Developer of an application.
 
 #### Billing Provider
 
-#### 
+#### Data Provider
+
+#### Data Analyst
+
+#### Marketplace Provider
 
