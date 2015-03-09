@@ -45,7 +45,7 @@ A service consumer that is identified by a Identity Service Provider.
 
 A service consumer that is not identified.
 
-#### Communication Service Provider (CSP)
+#### Communication Service Provider
 
 A Service Provider that manages the delivery of Communication services e.g. telephony, chat, to Communication Service Consumers. NSP and CSP roles can be played by the same Service Provider actor.
 
