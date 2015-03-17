@@ -75,13 +75,23 @@ Developer of an application.
 
 #### Content Provider
 
+Value added service Provider who manages access to a structured set of data. The data are encapsuled and made accessible to the customers/ user.
+
 #### Access Provider
+
+Service provider who enables business and private customers with (technical) access to a network.
 
 #### Hosting Provider
 
+Service provider  who makes available capacities such as servers, databases or storage to a (paying) customer/ user.
+
 #### Charging Provider
 
+Service Provider who measures and analyses the usage of a service, charges the usage and sends the data to a billing provider.
+
 #### Billing Provider
+
+Service provider who issues invoices based on the data received from a Charging Provider.
 
 #### Data Provider
 
