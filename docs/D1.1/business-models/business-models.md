@@ -6,6 +6,12 @@
 
 http://digitalenterprise.org/models/models.html
 
+http://www.visionmobile.com/product/telco-innovation-toolbox-report/
+
+http://www.visionmobile.com/product/asymmetric-business-models/
+
+http://www.stlpartners.com/manifesto.php
+
 
 #### Brokerage Business Model
 
