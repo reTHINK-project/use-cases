@@ -67,7 +67,11 @@ Is a Service Provider that assists or orchestrates the delivery of services invo
 
 A consumer who utilizes an application for exchange of information or content via a public network.
 
-#### Application Service Provider
+#### Application Service Provider (ASP)
+
+A service provider who provides an application (i. e. ERP) for utilization via a public or a private network.
+The ASP takes care of administration, data storage and backup, maintenance and so on. The customer doesn't buy the software/ application but rather rents it. 
+Other that the application hoster it is part of the ASP to provide services such as customer care.
 
 #### Application Provider
 
