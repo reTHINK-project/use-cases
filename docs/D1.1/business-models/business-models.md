@@ -15,7 +15,7 @@ The Business Broker should ensure it has access to a large consumer base in orde
 - Consumer searches for services or is notified by business broker about services that match consumer needs
 - service delivery is managed by Business Broker but the main service delivery flow can be a direct flow between Service Provider and service consumer
 - payments for service delivery are mediated by the Business Broker
-- 
+
 
 Note: it should also be possible to have service / App providers having access to niche markets to trigger the service deliver through the collaborative service delivery ecosystem. FFS
 
