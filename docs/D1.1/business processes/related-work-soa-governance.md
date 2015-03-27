@@ -1,9 +1,5 @@
 OpenGroup provides a SOA Governance Framework technical standard that defines a model to be used by organisations to manage services lifecycle according to SOA principles. 
-It consists of an SOA Governance Reference Model (SGRM) which is utilized as a starting point, and an SOA Governance Vitality Method (SGVM) which is a definition/improvement feedback process to define a focused and customized SOA Governance Regimen.
-
-The SGRM defines a SOA Service LifecycleManagement covering the design, development, deployment, management, and ultimate retirement of services.
-
-Identified Key issues are:
+OpenGroup SOA Service LifecycleManagement covers the design, development, deployment, management, and ultimate retirement of services. Identified Key issues are:
 
 - Establishing and approving service contracts (e.g., business processes will have the necessary capacity)
 - Publishing services to enable re-use
@@ -50,4 +46,4 @@ Service Interface Design Model
 Service Policy
 Implemented Service
 
-TBD: analyse and critiseze
+TBD: analyse and criticise. what will be leverage by reTHINK
