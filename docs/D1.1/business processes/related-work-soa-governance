@@ -1,20 +1,7 @@
 OpenGroup provides a SOA Governance Framework technical standard that defines a model to be used by organisations to manage services lifecycle according to SOA principles. 
 It consists of an SOA Governance Reference Model (SGRM) which is utilized as a starting point, and an SOA Governance Vitality Method (SGVM) which is a definition/improvement feedback process to define a focused and customized SOA Governance Regimen.
 
-The SGRM defines a number of constituent parts, including:
-- SOA governance guiding principles to assist in the prioritization and decision-making for the design, deployment, and execution of the SOA Governance Regimen. This includes aspects of people/roles, processes, and technology.
-- SOA governing processes that realize the governance intentions of the organization
-- Governed SOA processes which include planning, design and operational aspects of SOA -> **important for reTHINK**
-- SOA governance process artifacts are created explicitly to support SOA governance e.g. documentation about business goals, business roles, business policies, SLAs, etc
-- SOA governance roles and responsibilities to be considered by organisations
-- SOA governance technology to identify capabilities to be used to the SOA governing processes e.g. Policy enforcement capability, Management capability and Workflow capability to automate governance processes.
-
-The SGRM defines Governed SOA processes which include planning, design and operational aspects of SOA (see picture ?).
-
-*delete:?* The Solution Portfolio Management process focuses on planning and prioritization of individual SOA solutions. These individual solutions may consume existing services as well as define new services. Following the guidance of the Service Portfolio Management process, these solutions may consume the re-usable services developed by the Service Lifecycle process and/or define new services for Service Portfolio Management. The new services are thereby prioritized by Service Portfolio Management for the Service Lifecycle process to manage for consumption by the individual SOA solutions. The Solution Lifecycle then enforces the Solution Portfolio Management plans during the development, deployment, and management of the individual SOA solution. The SGRM does not provide detail on these SOA processes but focuses on governance of those processes.
-
-Service Portfolio Management ensures that the organization has a set of services appropriate to its needs. 
-SOA Service LifecycleManagement covers the design, development, deployment, management, and ultimate retirement of services.
+The SGRM defines a SOA Service LifecycleManagement covering the design, development, deployment, management, and ultimate retirement of services.
 
 Identified Key issues are:
 
@@ -63,4 +50,4 @@ Service Interface Design Model
 Service Policy
 Implemented Service
 
-
+TBD: analyse and critiseze
