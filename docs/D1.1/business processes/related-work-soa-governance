@@ -1,0 +1,11 @@
+OpenGroup provides a SOA Governance Framework technical standard that defines a model to be used by organisations to manage services lifecycle according to SOA principles. 
+It consists of an SOA Governance Reference Model (SGRM) which is utilized as a starting point, and an SOA Governance Vitality Method (SGVM) which is a definition/improvement feedback process to define a focused and customized SOA Governance Regimen.
+
+The SGRM defines a number of constituent parts, including:
+- SOA governance guiding principles to assist in the prioritization and decision-making for the design, deployment, and execution of the SOA Governance Regimen. This includes aspects of people/roles, processes, and technology.
+- SOA governing processes that realize the governance intentions of the organization
+- Governed SOA processes
+- SOA governance process artifacts
+- SOA governance roles and responsibilities
+- SOA governance technology
+
