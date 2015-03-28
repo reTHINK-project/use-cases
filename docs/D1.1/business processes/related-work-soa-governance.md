@@ -9,41 +9,31 @@ OpenGroup SOA Service LifecycleManagement covers the design, development, deploy
 - Managing to policies
 
 More detailed Service Lifecycle Management activities are described including (http://www.opengroup.org/soa/source-book/gov/procacts.htm#soa_governed_proc):
--Service Definition
--Service Realization Planning
--Service Modeling
--Service Implementation, Assembly, or Acquisition
--Service Testing
--Service Deployment
--Service Management and Monitoring
--Service Support
 
-In addition all information used by The Open Group SOA Governance Framework is described at (http://www.opengroup.org/soa/source-book/gov/procinfo.htm#info_entities) notably Service Description in terms of (just mention the ones more relevant to reTHINK):
-Service Contract
-Service Exceptions
-Contract Violation Resolution
-Service Performance Reports
-Service Requirements
-Service Change Proposal
-Service Ownership
-Service Classification
-Service Identity
-Service User Interaction Report
-Incident Report
-Problem Report
-Service Performance Feedback
-Service Infrastructure
-Service Audit Reports
-Service Test Results
-Service Metrics
-Service Processes
-Service Realization Plan
-Service Characteristics
-Service Deploy Results
-Service Definition
-Service Test Plan
-Service Interface Design Model
-Service Policy
-Implemented Service
+* Service Definition
+* Service Realization Planning
+* Service Modeling
+* Service Implementation, Assembly, or Acquisition
+* Service Testing
+* Service Deployment
+* Service Management and Monitoring
+* Service Support
 
-TBD: analyse and criticise. what will be leverage by reTHINK
+In addition all information used by The Open Group SOA Governance Framework is described (http://www.opengroup.org/soa/source-book/gov/procinfo.htm#info_entities) notably Service Description in terms of (just mention the ones more relevant to reTHINK):
+* Service Contract
+* Service Performance Reports
+* Service Requirements
+* Service Ownership
+* Service Classification
+* Service Identity
+* Service Performance Feedback
+* Service Test Results
+* Service Metrics
+* Service Processes
+* Service Characteristics
+* Service Definition
+* Service Interface Design Model
+* Service Policy
+* Implemented Service
+
+OpenGroup SOA Governance standard provides an abstract but useful model that reTHINK may apply to instantiate a workable  Hyperty Governance model.
