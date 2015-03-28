@@ -12,7 +12,7 @@ The three basic process areas are:
 * The Enterprise Management Process Area focus on both the setting and achieving of strategic corporate goals and objectives, as well as providing those support services that are required throughout an Enterprise. These processes are sometimes considered to be the corporate functions and/or processes. e.g., Financial Management, Human Resources Management processes, etc… 
 
 The four functional process blocks are:
-o	The Market and sales domain , Product and Customer include processes dealing with sales and channel management, marketing management, 
+*	The Market and sales domain , Product and Customer include processes dealing with sales and channel management, marketing management, 
 *	The Product Domains includes processes such as managing product offering.
 *	The Customer domain manages the customer interface, customer relationship, customer problem handling, billing processes and all type of operational customer processes
 *	The Service processes include those dealing with service development and delivery of service capability, service configuration, service problem management, quality analysis, and rating.
