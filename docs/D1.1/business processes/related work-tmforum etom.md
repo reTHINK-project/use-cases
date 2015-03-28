@@ -2,7 +2,7 @@
 
 The TM Forum eTOM standard provides common definitions to describe business activities to be performed by service providers including basic information required to perform each process element within a business activity. eTOM has been widely adopted by the Telecommunication industry with many versions published. Version 14 was published May 2014.
 
-The Business Process Framework model consists of processes at 5 levels and These levels form a hierarchy, with each level encapsulating a group of processes at the next level of detail. The graphic representation of an Business Process Framework (eTOM) model consists of rows and columns, the intersections of which denote specific business processes (see Level0 eTOM processes, below). In this manner the Business Process Framework map covers the whole value chain. 
+The Business Process Framework model consists of processes at 5 levels and these levels form a hierarchy, with each level encapsulating a group of processes at the next level of detail. The graphic representation of an Business Process Framework (eTOM) model consists of rows and columns, the intersections of which denote specific business processes (see Level0 eTOM processes, below). In this manner the Business Process Framework map covers the whole value chain. 
 
  ![eTOM level0](eTOM-level0.png)
  
