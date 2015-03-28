@@ -4,6 +4,8 @@ _Define main business processes to be considered for reTHINK governance purposes
 
 ## Related Work
 
+### [OpenGroup SOA Governance](http://www.opengroup.org/soa/source-book/gov/gov.htm)
+
 ### [TM Forum Business Process Framework (eTOM)](related%20work-tmforum%20etom.md)
 
 ### [TM Forum B2B2X Partnering Accelerator](related%20work-tmforum%20b2b2x.md)
