@@ -42,3 +42,6 @@ In this example, two mains actors are involved: the product manager, being respo
 The ResourceDemand-to-ResourceCapability process (see picture below) is triggered by this process flow since the delivery of new service capabilities will most likely lead to a need for new resource capabilities.
 
  ![eTOM Level 3 ResourceRequirement-to-ResourceCapability Workflow](eTOM-level3-ResourceRequirement-to-ResourceCapability.png)
+
+The eTOM Framework is a very comprehensive and abstract model of service provider business processes and most of them are not in reTHINK scope. The following Level 3 and Level 4 processes should be further analysed as candidates to be adopted and adapted by reTHINK:
+* 
