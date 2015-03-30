@@ -17,14 +17,28 @@ The four functional process blocks are:
 *	The Resource processes include those dealing with development and delivery of resource (network and IT) infrastructure, and its operational management including aspects such as provisioning, trouble management and performance management. Resource infrastructure supports products and services, as well as supporting the enterprise itself.
 *	The Supplier/Partner processes include those dealing with the enterprise’s interaction with its suppliers and partners. This involves both processes that develop and manage the Supply Chain that underpins product and infrastructure, as well as those that support the operational interface with its suppliers and partners.
 
-From the different Level 1 eTOM framework processes, the SIP (The Strategy and Commit, Infrastructure Lifecycle Management and Product Lifecycle Management) processes group is highlighted which is comprised by the following vertical processes:
+From the different Level 1 eTOM framework processes, the SIP (The Strategy and Commit, Infrastructure Lifecycle Management and Product Lifecycle Management) processes group is highlighted, which is comprised by the following vertical processes:
 
 * Strategy & Commit processes that are responsible for the generation of strategies in support of the Infrastructure and Product Lifecycle processes
 * Infrastructure Lifecycle Management processes are responsible for the definition, planning and implementation of all necessary infrastructures (application, computing and network), as well as all other support infrastructures and business capabilities (operations centers, architectures, etc.). 
 * Product Lifecycle Management: this process grouping is responsible for the definition, planning, design and implementation of all products in the enterprise’s portfolio.
 
-In addition, SIP processes group are comprised by four horizontal functional process groupings:
+In addition, SIP processes group are comprised by four horizontal functional process groupings (see picture below):
 * Marketing & Sales Management processes focus on the knowledge of running and developing the core business for a service provider. It includes functionalities necessary for defining market and sales strategies, and implementing marketing and sales strategies especially suitable for information and communications products and services.
 * Service Development & Management processes focus on planning, developing and delivering services. It includes processes necessary for defining the strategies for service creation and design, managing existing services, and ensuring that capabilities are in place to meet future service demand.
 * Resource Development & Management processes focus on planning, developing and delivering the resources needed to support services and products, including the development of the network and other physical and non-physical resources, introduction of new technologies and interworking with existing ones, managing existing resources and ensuring that capabilities are in place to meet future service needs.
 * Supply Chain Development & Management processes focus on the interactions required by the enterprise with suppliers and partners, who are involved in maintaining the supply chain. The supply chain is a complex network of relationships that a service provider manages to source and deliver products.
+
+ ![eTOM Level 1 SIP Functional processes](eTOM-SIP_functional_groups_Level1.png)
+
+More detailed Level2 and Level3 will highly depend on very specific Service Provider business requirements. Figure ?, depicts one example on how Level2 processes can be applied to a "Concept-to-Market" scenario. It is comprised by a sub-set of Level 2 processes in “Strategy, Infrastructure and Product” domain and some support & readiness processes from “Operations” domain.
+
+ ![eTOM Level 2 "Concept-to-Market" processes](eTOM-level2-concept-to-market.png)
+
+In this example, two mains actors are involved: the product manager, being responsible for the business concerns of the product and the project manager, being responsible for the delivery of the product and all required infrastructure and capabilities. In picture, below a Level 3 ServiceRequirement-to-ServiceCapability workflow dealing with providing service capabilities based on service requirements, is depicted. As a first step a sourcing capability (ability to source the service capability from external parties) has to be provided, based on the sourcing demand. At this stage the level of vertical integration must be determined – depending on that level, the phases for providing a service are performed internally within the Service Development & Maintenance processes of the enterprise, or by the external partner. However, in case of external sourcing the required capabilities sourced from external parties need to be on-boarded to be operationally available for the enterprise. 
+
+ ![eTOM Level 3 ServiceRequirement-to-ServiceCapability Workflow](eTOM-level3-ServiceRequirement-to-ServiceCapability.png)
+
+The ResourceDemand-to-ResourceCapability process (see picture below) is triggered by this process flow since the delivery of new service capabilities will most likely lead to a need for new resource capabilities.
+
+ ![eTOM Level 3 ResourceRequirement-to-ResourceCapability Workflow](eTOM-level3-ResourceRequirement-to-ResourceCapability.png)
