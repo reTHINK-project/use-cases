@@ -43,11 +43,8 @@ The ResourceDemand-to-ResourceCapability process (see picture below) is triggere
 
  ![eTOM Level 3 ResourceRequirement-to-ResourceCapability Workflow](eTOM-level3-ResourceRequirement-to-ResourceCapability.png)
 
-The eTOM Framework is a very comprehensive and abstract model of service provider business processes and most of them are not in reTHINK scope. The following Level 3 and Level 4 processes should be further analysed as candidates to be adopted and adapted by reTHINK:
-**Level 3**
-* Product & Offer Development & Retirement
-* Service Development & Management
-**Level 4**
+The eTOM Framework is a very comprehensive and abstract model of service provider business processes and most of them are not in reTHINK scope. The following Level 4 processes should be further analysed as candidates to be adopted and adapted by reTHINK:
+
 * Manage Service Inventory
 * Enable Service Configuration & Activation
 * Enable Service Quality Management
