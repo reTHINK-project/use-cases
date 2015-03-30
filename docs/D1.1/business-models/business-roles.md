@@ -103,3 +103,7 @@ Service provider who issues invoices based on the data received from a Charging 
 
 #### Marketplace Provider
 
+#### Collaborative Assistant Service Provider
+
+Besides the usual and core features provided by CSPs in H2H Conversation, like voice, video and textual communication, Collaborative Assistant Service Provider cooperate with CSPs to deliver additional and specialized collaborative or assistant features. For example, services to assist business negotiations among participants, purchase orders, professional training, job interviews, software development, professional design, project architecture, etc.
+
