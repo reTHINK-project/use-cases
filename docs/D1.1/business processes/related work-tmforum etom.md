@@ -44,4 +44,64 @@ The ResourceDemand-to-ResourceCapability process (see picture below) is triggere
  ![eTOM Level 3 ResourceRequirement-to-ResourceCapability Workflow](eTOM-level3-ResourceRequirement-to-ResourceCapability.png)
 
 The eTOM Framework is a very comprehensive and abstract model of service provider business processes and most of them are not in reTHINK scope. The following Level 3 and Level 4 processes should be further analysed as candidates to be adopted and adapted by reTHINK:
+**Level 3**
+* Product & Offer Development & Retirement
+* Service Development & Management
+**Level 4**
+* Manage Service Inventory
+* Enable Service Configuration & Activation
+* Enable Service Quality Management
+* Service Configuration & Activation
+* Design Solution
+* Allocate Specific Service Parameters to Services
+* Track & Manage Service Provisioning
+* Implement, Configure & Activate Service
+* Test Service End-to-End
+* Report Service Provisioning
+ 
+*Product Management is out of scope of reTHINK?*
+* Product & Offer Capability Delivery
+* Define Product Capability Requirements
+* Approve Product Business Case
+* Deliver Product Capability
+* Product & Offer Development & Retirement
+
+* Develop Service Partnership Requirements
+* Service Capability Delivery
+* Map & Analyze Service Requirements
+* Capture Service Capability Shortfalls
+* Design Service Capabilities
+* Manage Service Capability Delivery
+* Service Development & Retirement
+* Gather & Analyze New Service Ideas
+* Develop New Service Business Proposal
+* Develop Detailed Service Specifications
+* Manage Service Development
+* Manage Service Deployment
+* Manage Service Exit
+* Gather & Analyze Resource Information
+* Develop Resource Partnership Requirements
+* Resource Capability Delivery
+* Map & Analyze Resource Requirements
+* Capture Resource Capability Shortfalls
+* Design Resource Capabilities
+* Manage Resource Capability Delivery
+* Resource Development & Retirement
+* Gather & Analyze New Resource Ideas
+* Develop New Resource Business Proposal
+* Develop Detailed Resource Specifications
+* Manage Resource Development
+* Manage Resource Deployment
+* Manage Resource Exit
+* Party Offering Development & Retirement
+* On-board Party Capability
+* Off-Board Party Offering & Specification
 * 
+
+#### References
+
+* Business Process Framework, Concepts and Principles, GB921CP, Release 14.5.0, December 2014
+* TM Forum Portfolio and Product Management Quick Start Pack: Concept-to-Market (C2M), August 2013, TM Forum Approved Version 0.4
+* Business Process Framework GB921 Addendum D, L3 Process Decompositions and Descriptions, Release 14.5.0, February 2015
+* Business Process Framework GB921 Addendum D, L4 Extended Process Decompositions and Descriptions, Release 14.5.0, February 2015
+
