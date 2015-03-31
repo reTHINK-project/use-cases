@@ -14,20 +14,9 @@ http://www.stlpartners.com/manifesto.php
 ##### Collaborative Ecosystems
 
 Ecosystem economics describe how the core product (e.g., iDevices or Google ads) becomes more and more valuable, as the
-numbers of developers and users around it grow. Ecosystem economics are driven by network effects and lock-in. Apps attract  users, who in turn attract more developers, who make more apps, which attract even more users, and so on. This network effect between developers and users drives the explosive growth of the core product e.g. a mobile device or advertisement. Lock-in creates natural “walled gardens,” as users develop habits around apps, while developers are locked-in by high switching costs created by their investments into the core product. Deveopers must be viewed as partners, not as a source of direct profit. In general, ecosystem partners should also be seen as resellers that will push service provider services, to new users, new usage models and new market niches. 
+numbers of partners, notably developers, grow. The ecosystem network effect between developers and users drives the explosive growth of the core product. Lock-in creates natural “walled gardens,” as users develop habits around apps, while developers are locked-in by high switching costs created by their investments into the core product. On the other hand, Developers must be viewed as partners and reselhers, not as a source of direct profit, that will push the core product, to new users, new usage models and new market niches. 
 
-Ecosystem partners share costs and risks of entrepreneurship, each one investing in the ecosystem, subsidizing the expansion of the overall business. Service Provider APIs are key technology enablers to promote and convince developers to be partners in the ecosystem. The business models of service provider APIs need to be aligned with the business models of developers.
-Openness is a fundamental characteristic of APIs to lower barriers to entry and drive acquisition of diverse ranges of partners that produce valuable apps, hardware accessories and other complements to the core product. However, core products are closed (integrated) around core businesses to deliver unique value, elevate barriers to entry and achieve sustained profitability. 
-
-Key ingredients to create ecosystems:
-
-1. Software foundations: a rich set of APIs with managed fragmentation and a toolset for creating apps
-2. Community of developers writing to the same set of APIs to spur innovation and cater to diverse use cases
-3. Distribution (reach) across handsets, operators and regions
-4. A means of monetization, such as ads or micropayments
-5. A means of retailing content (discovery, promotion, search and social)
-
-In terms of Software foudations, HTML5 is usually Pitched as a killer of platform walled gardens (e.g. Android and iOS), but stills needs lot of work before it competes with such platforms, notably in terms of the last 3 ingredients: distribution, monetization and retailing.
+Service Provider APIs are key technology enablers to get developers as partners in the ecosystem and APIs business models  need to be aligned with developers business models. APIs openness promotes lower barriers to entry and the acquisition of a large range of complementary products (e.g. apps, hardware accessories). However, core products are closed (integrated) around core businesses to deliver unique value, elevate barriers to entry and achieve sustained profitability. 
 
 http://www.visionmobile.com/product/telco-innovation-toolbox-report/
 
