@@ -29,11 +29,12 @@ The reTHINK project addresses use-cases and business models in one work package.
 ###### Business Roles and Business Models
 -----
 [Business Roles](../../blob/master/docs/D1.1/business-models/business-roles.md)
+
 [Business Models](../../blob/master/docs/D1.1/business-models/business-models.md)
 
 ###### Business Processes
 -----
-[Business Processes](../../blob/master/docs/D1.1/business-processes/business%20processes.md)
+[Business Processes](../../blob/master/docs/D1.1/business%20processes/business%20processes.md)
 
 ##### Deliverables
 -----
