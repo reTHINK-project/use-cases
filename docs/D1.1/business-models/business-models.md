@@ -9,9 +9,10 @@ http://digitalenterprise.org/models/models.html
 ##### Asymmetric Business Models
 
 According to VisionMobile research, Asymmetric business models are based on providing Products to different Markets in a way that promote the migration of profits from one market to another, breaking barriers between Industry barriers to get competitive advantage. The decision to compete in multiple markets should be driven by customer experience improvement, rather than about the efficiency of the company operations, by leveraging systems integration across industries. Customer traction in one market also boosts the demand in the other market. For example, smartphones get more attractive depending on how many apps and services are available on them. These markets are called Complementary Markets.
-The mechanics of Asymmetric business models is based on promoting high demand on complementary markets (e.g. by making products radically cheaper or more accessible for customers) and bundling Service Provider Core product with this new demand. The intention of offering Service Bundles is to promote the transfer of profits to Service Provider core business.
+The mechanics of Asymmetric business models is based on promoting high demand on complementary markets (e.g. by making products radically cheaper or more accessible for customers) and bundling Service Provider Core product with this new demand. Service Bundles should be created in a way that promotes the transfer of profits to Service Provider core business.
 
 Examples on how these models are applied by leading digital service providers are:
+
 1. Apple competes in both consumer electronics and digital content markets, making consumer electronics more attractive.
 2. Google that compete in both online advertising and mobile markets, leverages the integration of user data mining on Android with its advertising network to make Google PC ads more attractive for advertisers.
 3. Amazon that compete in both e-commerce and tablet markets, takes advantage of its ability to present its services to tablet users to make online shopping easier and more spontaneous.
