@@ -13,3 +13,5 @@ _Define main business processes to be considered for reTHINK governance purposes
 ## Hyperty Life-cycle Management
 
 ## Partnership Life-cycle Management
+
+## ITIL (http://en.wikipedia.org/wiki/ITIL)
