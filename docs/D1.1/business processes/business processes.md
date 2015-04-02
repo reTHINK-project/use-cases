@@ -4,7 +4,9 @@ _Define main business processes to be considered for reTHINK governance purposes
 
 ## Related Work
 
-### [OpenGroup SOA Governance](http://www.opengroup.org/soa/source-book/gov/gov.htm)
+### [ITIL](related-work-itil.md)
+
+### [OpenGroup SOA Governance](related-work-soa-governance.md)
 
 ### [TM Forum Business Process Framework (eTOM)](related%20work-tmforum%20etom.md)
 
@@ -14,4 +16,3 @@ _Define main business processes to be considered for reTHINK governance purposes
 
 ## Partnership Life-cycle Management
 
-## ITIL (http://en.wikipedia.org/wiki/ITIL)
