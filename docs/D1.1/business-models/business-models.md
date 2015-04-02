@@ -7,7 +7,7 @@
 http://digitalenterprise.org/models/models.html
 
 ##### Two sided Business Models
-
+Denise is discribing that right now. I update very soon.
 
 http://www.stlpartners.com/manifesto.php
 
