@@ -14,4 +14,10 @@ Put in Collab-Pic here
 The Business Collaboration Activities focus on the phases "Partner", "Operate" and "Monetise". They influence the phases "Design" and "Integration". They are mostly concerned with:
 * identifying Partners
 * defining roles, business rules and policies
-* defining business contractual, financial and poerational models collectively known as partnership models which identify touch points/ APIs for the processes operated between partners
+* defining business contractual, financial and poerational models collectively known as partnership models which identify touch points/ APIs for the processes operated between partners 
+
+Business collaboration activities are requiered for:
+* seting up a partnership agreement for the first time
+* adding or changing partners, processes, technical specifications and business rules
+* adding new functional services/ products to be delivered by or uses within the partnership
+ 
