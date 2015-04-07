@@ -24,7 +24,7 @@ Business collaboration activities are requiered for:
 The Technical Collaboration activities focus on and are accountable and responsible for the "Design" and "Integration" phases.These phases use the partnering agreements from the business collaboration activities to select and configure reusable components solutions to meet both the functional and non-functional requirements set by the business collaboration partnering requirements (e.g. touch points).
 
 There are three distinct areas where agreements are needed:
-* Funktional Service Integration Model - for services and networks that are used to deliver the end user service and the intermediate enabling functional services
+* Functional Service Integration Model - for services and networks that are used to deliver the end user service and the intermediate enabling functional services
 * Business Collaboration Model - describes how each party works commercially, financially and operationally with oder partners
 * Technical Collaboration Model - captures the IT aspects of the collaboration and is focused on IT, BSS, OSS, management interfaces and APIs
 
