@@ -32,9 +32,22 @@ The three digital service lifecycle stages are:
 
 Put in Pictrue of DSL with explainations here
 
-Business Rules - tbd
+Business Rules define how ech partner will behave with resprecth to each other partner.
+Whilst business rules may be identified as part of the business model, technically these must be implemented in many different component parts of the service and a common product/ service catalogue/ policy server.
+Business rules will include:
+* Business Model - Branding, Service Levels, Service configuration, geographic rules, service applicapility rules
+* Contractual Model - Penalties
+* Financial Model - Pricing/ Discounting and other commercial terms
+* Operational Model - Metrics to be collected and used for operations management and governance
 
 #### Contract Model Selection
+
+Contractual models can be summarized in three main types:
+* integrate
+* distribute
+* co-sell
+
+
 
 tbd
 
