@@ -26,9 +26,9 @@ Business collaboration activities are requiered for:
 #### Business Model Selection
 The Business Model selected describes the business role(s) each partner will play in providing the business value. Each Service Provider has a clear role in the value chain based on their core capabilities and strengths and their alignment to the other members in the chain. The roles are also used to describe the management relationships. The Business Model furthermore describes how the partners provide the fuctional servcies and the key busienss relationships between their fucthonal roles.
 The three digital service lifecycle stages are:
-* Onboarding
-* Adding Value
-* Delivering
+* Onboarding - where to get the partners from (internal, external, federated, syndicated ...)
+* Adding Value - configuration, branding, packaging/ bundling, interfaces, commercialization
+* Delivering - directly, indirectly
 
 Put in Pictrue of DSL with explainations here
 
