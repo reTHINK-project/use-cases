@@ -21,7 +21,7 @@ Business collaboration activities are requiered for:
 * adding or changing partners, processes, technical specifications and business rules
 * adding new functional services/ products to be delivered by or uses within the partnership
  
-# Business Model Selection
+#### Business Model Selection
 
 The Technical Collaboration activities focus on and are accountable and responsible for the "Design" and "Integration" phases.These phases use the partnering agreements from the business collaboration activities to select and configure reusable components solutions to meet both the functional and non-functional requirements set by the business collaboration partnering requirements (e.g. touch points).
 
