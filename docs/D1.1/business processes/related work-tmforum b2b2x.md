@@ -4,7 +4,7 @@ Source: [B2B2X Partnering Accelerator](http://www.tmforum.org/B2B2XPartneringAcc
 
 Partnering Life Cycle:
 
-Put in Life Cycle here
+Put in Life Cycle here (PaDIOM)
 
 The activities of a Partnership Life Cycle are performed by multiple partners in a  B2B2X-Partnership cooperatively. This restults in the need of synchroniset activitis and for partners to use common templates ad patterns for each state.
 The full lify cycle addresses both business and technical collaboration.
