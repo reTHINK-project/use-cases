@@ -61,6 +61,8 @@ Different Business Models and Payment models can be used to economically sustain
 
 #### reTHINK Ecosystems examples
 
+*Analyse the value chain?*
+
 ##### Network driven Ecosystem
 
 ##### Trust driven Ecosystem
@@ -69,9 +71,11 @@ Different Business Models and Payment models can be used to economically sustain
 
 ##### Device driven Ecosystem
 
+##### Developer driven Ecosystem?
+
 ### Business Models
 
-*it would be nice to use the Business Model Canvas tool http://www.businessmodelgeneration.com/canvas/bmc *
+*it would be nice to use the Business Model Canvas tool http://www.businessmodelgeneration.com/canvas/bmc*
 
 #### Brokerage Business Model
 
