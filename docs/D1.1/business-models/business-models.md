@@ -37,17 +37,41 @@ http://www.visionmobile.com/product/asymmetric-business-models/
 http://www.visionmobile.com/product/telco-innovation-toolbox-report/
 
 ### Market Model
+*adapted from the DoW*
 
 Over the last decade over the top services (OTT), such as instant messaging (IM) and Voice over IP (VoIP), have revolutionized the well-established services and business models of telecommunication providers. However, applied communication standards and protocols are mainly used to create closed ecosystems, resulting in a highly fragmented market of mostly isolated communication platforms that restrict free, open and interoperable communication flows. 
-Currently, telecommunication architectures are based either on the Telco federation or on a global “Private Walled garden” distribution models (Figure 1):
-•	Telco Federated distribution model: universal interoperability and a highly regulated market constrain service delivery agility to geographically limited markets. However, this model ensures consumers well defined expectations in terms of reachability among users (independently of its service provider domain), trust in service providers and service quality. 
-•	“Private Walled Garden” distribution model: used by popular players like Google, Skype and WhatsApp (aka Over The Top - OTT) that have much more agility to deliver cost-effective (mostly free) innovative services to borderless markets. However, OTT players are creating silos of users where only intra-domain interoperability is ensured (for example, a WhatsApp user can only send a message to another WhatsApp user, a Skype user can only call to another Skype user or use Skype’s breakout service to the PSTN). In this model, service developers and third-party service providers are forced to use proprietary APIs and incur difficulties if they attempt to sell and distribute services to different domains and are limited to the user base of the service provider. In general, services are developed within a specific service domain, constraining service reachability between different service domains. Trust in service providers is more and more questionable and becomes a concern; the service delivery is unregulated and has to rely on best-effort Internet connectivity in all cases.
+Currently, telecommunication architectures are based either on the Telco federation or on a global “Private Walled garden” Market models:
 
-The reTHINK Market Model leverage the best from these two models to create a trusted worldwide cooperative service delivery model where different service provider ecosystems are dynamically created to better meet consumer needs. In the light of the new age of digitalization and peer to peer communication, future communication service solutions are required to address service scenarios not only between human entities but all possible variations between human and non-human entities. The reTHINK Market Model is conceived based on the concept that there is a need for an open and standardized enabling architecture for digital communication based on modern web technologies between devices, services, sensors and humans that incorporates reliable authentication and identity management for establishing trusted communications and managed quality of service (QoS) for reliable and efficient service delivery. The reTHINK Market Model introduces a Hyperlinked Entity (Hyperty) concept as a reliable and secure service enabler to interconnect devices, sensors, services and humans. In this model, service providers can deliver services to any domain with minimum costs and consumers can use them with no security or privacy concerns. The reTHINK Market Model will power both creative individuals (e.g., featuring personal devices) and large corporations (e.g., operating powerful data centers) to easily setup and deliver innovative services to the global market. IP connectivity network services specialized for real-time communications are offered to service providers in order to remove the limitations of best-effort Internet connectivity.
+*	Telco Federated distribution model: universal interoperability and a highly regulated market constrain service delivery agility to geographically limited markets. However, this model ensures consumers well defined expectations in terms of reachability among users (independently of its service provider domain), trust in service providers and service quality. 
+*	“Private Walled Garden” distribution model: used by popular players like Google, Skype and WhatsApp (aka Over The Top - OTT) that have much more agility to deliver cost-effective (mostly free) innovative services to borderless markets. However, OTT players are creating silos of users where only intra-domain interoperability is ensured (for example, a WhatsApp user can only send a message to another WhatsApp user, a Skype user can only call to another Skype user or use Skype’s breakout service to the PSTN). In this model, service developers and third-party service providers are forced to use proprietary APIs and incur difficulties if they attempt to sell and distribute services to different domains and are limited to the user base of the service provider. In general, services are developed within a specific service domain, constraining service reachability between different service domains. Trust in service providers is more and more questionable and becomes a concern; the service delivery is unregulated and has to rely on best-effort Internet connectivity in all cases.
+
+The reTHINK Market Model leverage the best from these two models to create a trusted worldwide cooperative service delivery model where different service provider ecosystems are dynamically created to better meet consumer needs. The  Model is conceived based on the need for open, standardized and trustful digital communications between devices, services, sensors and humans that incorporates managed quality of service (QoS) for reliable and efficient service delivery. In this model, service providers can deliver services to any domain with minimum costs and consumers can use them with no security or privacy concerns. The reTHINK Market Model will power both creative individuals (e.g., featuring personal devices) and large corporations (e.g., operating powerful data centers) to easily setup and deliver innovative services to the global market. 
 
 ![Market Model](market-model.png)
 
+reTHINK model is based on ecosystems of service providers that cooperate to deliver services to a specific worldwide end-user (consumer) domain. Ecosystems can target very specialised and small End-user domains (e.g. freelancer lawers specialised in digital copyright) or massive and large end-users domain (e.g. teenagers). Ecosystems should be led by a Service Provider that can perform the Business Broker role (see below). Service Providers should be able to offer their products to any available Ecosystem with or without exclusive relatioships depending on the Business Models used by Ecosystem. 
 
+The creation and management of ecosystems should be very dynamic with few, and as much as possible, automated administrative processes needed. The creation of the ecosystem should be justified by the analysis of regulated consumers behavior data.
+
+Consumers from different domains can establish trustful interdomain C2C relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between service providers or ecosystems.
+
+Likewise, Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems.
+
+Different Business Models and Payment models can be used to economically sustain ecosystems. A few possible Business Models are elaborated and analised in ? .
+
+#### reTHINK Ecosystems examples
+
+##### Network driven Ecosystem
+
+##### Trust driven Ecosystem
+
+##### Service or App driven Ecosystem
+
+##### Device driven Ecosystem
+
+### Business Models
+
+*it would be nice to use the Business Model Canvas tool http://www.businessmodelgeneration.com/canvas/bmc *
 
 #### Brokerage Business Model
 
