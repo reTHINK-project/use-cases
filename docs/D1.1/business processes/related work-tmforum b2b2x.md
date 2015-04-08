@@ -2,7 +2,12 @@
 
 Source: [B2B2X Partnering Accelerator](http://www.tmforum.org/B2B2XPartneringAccelerator/15673/home.html)
 
-Partnering Life Cycle:
+The TM Forum provides a framework to manage the Partnership and Service Life Cycles for B2B2X-Partnerships. With PaDIOM it adresses both business and technical considerations. PaDIOM stands for the five stages
+* Partnering
+* Design
+* Implementaion
+* Operation
+* Monetize
 
 Put in Life Cycle here (PaDIOM)
 
