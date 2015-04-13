@@ -16,7 +16,7 @@ Put in Collab-Pic here
 
 # Business Collaboration
 
-The Business Collaboration Activities focus on the phases "Partner", "Operate" and "Monetise". They influence the phases "Design" and "Integration". They are mostly concerned with:
+The Business Collaboration Activities focus on the phases "Partner", "Operate" and "Monetise". They influence the phases "Design" and "Integration" and are mostly concerned with:
 * identifying Partners
 * defining roles, business rules and policies
 * defining business contractual, financial and operational models collectively known as partnership models which identify touch points/ APIs for the processes operated between partners.
@@ -27,7 +27,7 @@ Business collaboration activities are requiered for:
 * adding new functional services/ products to be delivered by or uses within the partnership
  
 #### Business Model Selection
-The Business Model selected describes the business role(s) each partner will play in providing the business value. Each Service Provider has a clear role in the value chain based on their core capabilities and strengths and their alignment to the other members in the chain. The roles are also used to describe the management relationships. The Business Model furthermore describes how the partners provide the fuctional servcies and the key busienss relationships between their fucthonal roles.
+The Business Model Selection describes the business role(s) each partner will play in providing the business value. Each Service Provider has a clear role in the value chain based on their core capabilities and strengths and their alignment to the other members in the chain. The roles are also used to describe the management relationships. The Business Model furthermore describes how the partners provide the functional servcies and the key business relationships between their functional roles.
 The three digital service lifecycle stages are:
 * Onboarding - where to get the partners from (internal, external, federated, syndicated ...)
 * Adding Value - configuration, branding, packaging/ bundling, interfaces, commercialization
@@ -45,18 +45,19 @@ Business rules will include:
 
 #### Contract Model Selection
 
+Here the joint commercial goals and the partnership terms and conditions are agreed upon.
 Contractual models can be summarized in three main types:
 * integrate
 * distribute
 * co-sell
 
 
-
 tbd
 
 #### Financial Model Selection
 
-tbd
+The financial model selection identifies the financial management options between partners on how to share revenues and to manage the cash flow through the value chain.
+Either the partners send/ receive settlements directly based on the contracutal model, or the partner sends/ receives an invoice.
 
 #### Operating Model Selection
 
