@@ -21,6 +21,7 @@ partition ProductDesign {
 
 |#AntiqueWhite|Developer|
 partition Design {
+	:analyse requirements;
     :design Hyperty;
     :design tests;
     :Design Metadata]
@@ -28,6 +29,7 @@ partition Design {
 
 partition Implement {
     :implement Hyperty;
+    :define Hyperty configuration;
     :Hyperty artifacts]
 }
 
@@ -39,8 +41,11 @@ partition Test {
 |Service Provider|
     end fork
 partition Provisioning {
+	:end-to-end testing;
 	:certify;
 	:Hyperty Metadata]
+	:resources configuration;
+	:activate;
 	:publish Hyperty;
 	}
 
