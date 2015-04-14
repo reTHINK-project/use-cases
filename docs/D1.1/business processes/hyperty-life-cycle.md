@@ -160,11 +160,61 @@ As soon as the Hyperty is published in the Hyperty Catalogue it is discoverable 
 
 **Note:** According to Hyperty concept (see ?), Hyperties are services and not applications. I.e. Hyperties are not directly consumed by End-user Consumers but by Applications (i.e. other software programs). The life-cycle of Applications that consume Hyperties are out-scope of this task. However, the need to consider in the Hyperty life-cycle activities to support the registration of Applications consuming Hyperties should be further studied.
 
-Access to Hyperties should be subject to authorisation mechanism according to associated access control policies defined by the service provider.
+Selected Hyperty will be securely associated to Tangible Entity (in some cases this might not be needed eg for network side hyperties. To be further studied) which may imply to authenticate the consumer with the same Service Provider or witj another separated Identity Service Provider. *question: scould this operation be suported by another Hyperty.*
 
-If access is granted, Hyperty is deployed into user device runtime, instantiated and securely associated to a Tangible Entity (in some cases this might not be needed eg for network side hyperties. To be further studied).
+Access to Hyperties should be subject to authorisation according to associated access control policies defined by the service provider.
 
+Authorization evaluates conditions expressed in the policy that may include:
 
+* Evaluate if Tangible Entity identity associated to Hyperty belongs to a Role Consumer (or Consumer Group) that have permissions to use the Hyperty capabilities. If false, subscription or authentication action may be requested
+* Evaluate if contracted QoS can be reached. If evaluation is false some resources may be allocated
+* Evaluate that consumer have charging credit. If false some amount can be allocated.
+
+If access is granted, Hyperty is deployed into user device runtime, instantiated and registered with the service provider. The Hyperty instance registration will include Hyperty instance contextual data that will depend on its type and the runtime resource capabilities e.g. network constraints (including networking addresses needed to make the Hyperty instance reachable), availability, etc
+
+**input**
+
+* Hyperty Operation Metadata
+* Hyperty address
+* Hyperty Access Control Policies
+
+**output**
+
+* Hyperty registry updated with Hyperty instance registration data
+
+### Hyperty Instance Usage
+
+Hyperty instance is used by the user, according to associated policies that are enforced localy or remotely according to associated usage events triggered by the Hyperty instance execution.
+
+Hyperty instance may move to another device on user request or automaticaly on certain conditions (e.g. smartphone battery load is low) according to operational policies (not shown in the diagram). Hyperty instance move and resume will imply a change in the Hyperty Instance status.
+
+Hyperty instance may dye on user request or automaticaly on certain conditions (e.g. keep-alive events are not received by the registry due to network connectivity problems) according to operational policies (not shown in the diagram). In this case the Hyperty instance is unregister from the Hyperty registry. *question: what about situations where Hyperties instance may run without connectivity?*
+
+**input**
+
+* Hyperty Operation Metadata
+* Hyperty instance address
+* Hyperty Usage Policies
+
+**output**
+
+* Hyperty registry updated with Hyperty Instance Usage Events including unregistering
+
+**question:** should include additional activities for:
+
+1. Hyperty Instance discovery 
+1. Communication between Hyperty Instances?
+1. Hyperty Instance context updated (e.g. when it moves)
+
+### Hyperty Instance Monitoring
+
+The Hyperty Instance is monitored by the Service Provider according to received:
+* received Service Usage event 
+* received Service Failure event 
+* or to Hyperty health reports that are requested according to conditions defined in the Operation Metadata.
+
+Such data will be processed to calculate the KPIs required to support SLA management of the Hyperty.  
+If the Hyperty SLA is violated, it may be necessary to trigger some adaptation actions to correct the deviations (e.g., reserve more resources for the Hyperty, etc). 
 
 
 <!--
@@ -220,6 +270,7 @@ partition HypertyProvisioning {
 partition Access {
 	:Catalog]
 	:discover;
+	:associate to\nTangible Entity;
 
 	:access request;
 
@@ -228,11 +279,10 @@ partition Access {
 	:authorise access;
 	|Consumer|
 	:deploy Hyperty;
-	:associate to\nTangible Entity;
+	:register\nHyperty Instance;
 	}
 
 partition Usage {
-	:register Hyperty Instance;
 	:use;
 	:unregister Hyperty;
 	:usage event]
