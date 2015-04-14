@@ -51,7 +51,7 @@ partition Provisioning {
 
 |#LightRed|Consumer|
 partition Discover {
-	:Product Catalog]
+	:Catalog]
 	:discover;
 	}
 
@@ -73,7 +73,6 @@ partition Usage {
 	:unregister Hyperty;
 	:usage event]
 }
-
 
 |Service Provider|
 
