@@ -12,7 +12,7 @@ _Define main business processes to be considered for reTHINK governance purposes
 
 ### [TM Forum B2B2X Partnering Accelerator](related%20work-tmforum%20b2b2x.md)
 
-## Hyperty Life-cycle Management
+## [Hyperty Life-cycle Management](hyperty-life-cycle.md)
 
 ## Partnership Life-cycle Management
 
