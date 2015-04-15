@@ -206,15 +206,39 @@ Hyperty instance may dye on user request or automaticaly on certain conditions (
 1. Communication between Hyperty Instances?
 1. Hyperty Instance context updated (e.g. when it moves)
 
+
+### Hyperty Instance Charging
+
+The Hyperty instance usage may be charged by the Service Provider according to usages events received and business charging policies which is applied to usage context identified in the event. The charging policies may enforce actions like:
+•	Perform charging requests at the Billing system 
+•	Releases previously allocated credit amounts
+•	Increase usage credits/points
+
+**Input**
+The following input is needed:
+•	Operation Metadata
+•	Business Charging Policies
+
+**Output**
+Charging actions.
+
 ### Hyperty Instance Monitoring
 
-The Hyperty Instance is monitored by the Service Provider according to received:
-* received Service Usage event 
-* received Service Failure event 
-* or to Hyperty health reports that are requested according to conditions defined in the Operation Metadata.
+The Hyperty Instance is monitored by the Service Provider according to received Service Usage event or to Hyperty health reports that are requested according to conditions defined in the Operation Metadata.
 
 Such data will be processed to calculate the KPIs required to support SLA management of the Hyperty.  
 If the Hyperty SLA is violated, it may be necessary to trigger some adaptation actions to correct the deviations (e.g., reserve more resources for the Hyperty, etc). 
+
+Calculated KPIs will be evaluated by Product Managers which may decide to update the Hyperty or to remove from the Catalogue.
+
+### Hyperty Update
+
+Product Managers may decide to update the Hyperty which will imply to restart the life-cycle by starting to review the Product Business requirements (Product Conception).
+
+### Hyperty Removal
+
+Product Managers may decide to remove the Hyperty from the catalogue which will imply to perform some reconfiguration activities on Support Services and Systems that are no longer required (e.g. free data storage,  reease network and computing allocated resources etc).
+
 
 
 <!--
@@ -228,6 +252,7 @@ partition ProductConception {
     :conceive product;
     :business requirements]
 }
+
     fork
 partition ProductDesign {
 	    :design product;
@@ -282,43 +307,72 @@ partition Access {
 	:register\nHyperty Instance;
 	}
 
-partition Usage {
-	:use;
-	:unregister Hyperty;
-	:usage event]
-}
+	repeat
 
-|Service Provider|
-
-while (active?)
-
-partition Monitor {
-	:Policies]
-	:monitor;
-	:KPIs]
-}
-
-if (remove service) then (yes)
-partition Removal {
-	:Policies]
-	:remove Hyperty;
-}
-
-stop
-
-elseif (update service?) then (yes)
-partition Update {
-	:Policies]
-	:update Hyperty;
-	detach
-}
+		partition Usage {
+			:Runtime Policies]
+			:use;
+			:event]
+		}
+		if () is (usage event) then
 
 
-endif
+		|Service Provider|
 
-endwhile
+			if () then 
+				partition Monitoring {
+				:Policies]
+				:monitor;
+				:KPIs]
+				:evaluate KPIs;
+				}
 
-stop
+				if () then (update Hyperty)
+				partition Update {
+					:Policies]
+					:update Hyperty;
+					detach;
+				}
+				else (remove Hyperty)
+
+				partition Removal {
+					:Policies]
+					:remove Hyperty;
+				}
+
+				stop
+
+				endif
+			else
+				partition Charging {
+				:charge;
+				}
+				detach
+
+			endif
+
+		else
+
+	partition Usage {
+
+	|Consumer|
+
+		if (context event?) then (yes)
+			:update context;
+		elseif (time to\nmove event?) then (yes)
+			:move Hyperty;
+			elseif (unregister event?) then (yes)
+				:unregister;
+				stop
+	
+		endif
+		}
+
+
+		endif
+
+	repeat while (user is authorised)
+
 
 
 @enduml
