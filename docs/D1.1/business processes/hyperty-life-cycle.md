@@ -59,13 +59,14 @@ Hyperty Business Policies to Support Hyperties delivery are defined and Product 
 
 Semi-automation may be possible with assisting tools providing advanced search features on existing business policies.
 
-### Hyperty Design
+### Hyperty Design, Implementation and Test
 
-Developer or Designer validates and specify in detail how the Hyperty will comply with the Business requirements. 
+Developer validates and specify in detail how the Hyperty will comply with the Business requirements. 
 
-This specification should reuse as much as possible existing Hyperties specifications, including unit tests, that can be cloned or extended as a design starting point.
+The implementation and tests are done by reusing as much as possible existing source code, including unit tests, that can be cloned or extended as a starting point. Hyperties 
 
-After successful validation, the Hyperty Design Metadata is published into the Service Catalogue.
+As soon as all test cases are successful, the Hyperty is submitted to be approved by the Service Provider.
+
 
 **Note**
 
@@ -80,47 +81,14 @@ The following input is needed:
 
 **Output**
 
-•	Hyperty Design Metadata with detailed specification of the Hyperty and associated tests
-
-**Automation analysis**
-
-Semi-automation may be possible with assisting tools providing advanced search features on existing Hyperties Metadata design catalogue. 
-Full automation is possible in case there is no need to develop a new Hyperty.
-
-### Hyperty Implementation
-
-The Developer validates Hyperty Design Metadata and develops the Hyperty by reusing as much as possible existing Hyperties source code that may be extended or cloned as a development starting point.
-
-**Input**
-
-•	Hyperty Design Metadata
-•	Hyperty Catalogue
-
-**Output**
-
-•	Hyperty Artifacts including source code, test cases and hyperty configuration data
+•	Hyperty Metadata with description of the Hyperty 
+•	Hyperty Artifacts including source code, test cases and testing reports, hyperty configuration requirements and data
 •	Updated Hyperty Catalogue
 
 **Automation analysis**
 
 Semi-automation may be possible with assisting tools providing advanced search features on existing Hyperty catalogue. 
 Full automation may also be possible depending on the Hyperty complexity by reusing reusable Hyperty components (to be validated in T3.4).
-
-### Hyperty Testing
-
-Hyperty is tested according to executable test cases provided during Hyperty implementation. As soon as all test cases are successful, the Hyperty is submitted to be approved by the Service Provider.
-
-**input**
-
-* Hyperty artifacts including executable test cases
-
-**output**
-
-* testing reports
-
-**Automation analysis**
-
-Full automation of Hyperty testing should be possible.
 
 ### Hyperty Provisioning
 
@@ -186,25 +154,24 @@ If access is granted, Hyperty is deployed into user device runtime, instantiated
 
 Hyperty instance is used by the user, according to associated policies that are enforced localy or remotely according to associated usage events triggered by the Hyperty instance execution.
 
-Hyperty instance may move to another device on user request or automaticaly on certain conditions (e.g. smartphone battery load is low) according to operational policies (not shown in the diagram). Hyperty instance move and resume will imply a change in the Hyperty Instance status.
+Hyperty instance may move to another device on user request or automaticaly on certain conditions (e.g. smartphone battery load is low) according to operational policies. Hyperty instance move and resume will imply a change in the Hyperty Instance status.
 
-Hyperty instance may dye on user request or automaticaly on certain conditions (e.g. keep-alive events are not received by the registry due to network connectivity problems) according to operational policies (not shown in the diagram). In this case the Hyperty instance is unregister from the Hyperty registry. *question: what about situations where Hyperties instance may run without connectivity?*
+Hyperty instance may be removed on user request or automaticaly on certain conditions (e.g. keep-alive events are not received by the registry due to network connectivity problems) according to operational policies. In this case the Hyperty instance is unregister from the Hyperty registry. *question: what about situations where Hyperties instance may run without connectivity?*
 
 **input**
 
 * Hyperty Operation Metadata
 * Hyperty instance address
-* Hyperty Usage Policies
+* Hyperty Runtime Policies
 
 **output**
 
-* Hyperty registry updated with Hyperty Instance Usage Events including unregistering
+* Hyperty registry updated with Hyperty Instance Events including unregistering
 
 **question:** should include additional activities for:
 
 1. Hyperty Instance discovery 
 1. Communication between Hyperty Instances?
-1. Hyperty Instance context updated (e.g. when it moves)
 
 
 ### Hyperty Instance Charging
@@ -262,22 +229,14 @@ partition ProductDesign {
 	fork again
 
 |#AntiqueWhite|Developer|
-partition HypertyDesign {
+
+partition HypertyImplementation {
 	:analyse requirements;
-    :design Hyperty;
-    :design tests;
-    :Design Metadata]
-}
-
-partition HypertyImplement {
-    :implement Hyperty;
+    :design, implement\nand test Hyperty;
     :define Hyperty configuration;
-    :Hyperty artifacts]
-}
-
-partition HypertyTest {
-    :test Hyperty;
     :submit Hyperty;
+    :Hyperty artifacts]
+    :Hyperty Metadata]
 }
 
 |Service Provider|
