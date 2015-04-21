@@ -1,6 +1,8 @@
 ### ITIL business processes
 
-ITIL (IT Infrastructure Library) historically covers practices in IT service management and is centred on processes. This section is based on information retrieved from http://en.wikipedia.org/wiki/ITIL. 
+This section is based on information retrieved from http://en.wikipedia.org/wiki/ITIL. 
+
+ITIL (IT Infrastructure Library) historically covers practices in IT service management and is centred on processes. 
 The whole set of practices is organised in volumes that cover:
 *	Service Strategy: understands organizational objectives and customer needs.
 *	Service Design: turns the service strategy into a plan for delivering the business objectives.
