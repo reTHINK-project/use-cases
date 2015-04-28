@@ -66,6 +66,10 @@ Different Business Models and Payment models can be used to economically sustain
 
 *Analyse the value chain?*
 
+![Market Model](value-chain-example.png)
+
+Value chain analysis example
+
 ##### Network driven Ecosystem
 
 Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are ...
