@@ -68,6 +68,12 @@ Different Business Models and Payment models can be used to economically sustain
 
 ##### Network driven Ecosystem
 
+Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are ...
+
+Network Driven ecosystems are comprised with Network Infrastructure vendors, Network end-user devices, 
+
+*include picture with value chain*
+
 ##### Trust driven Ecosystem
 
 ##### Service or App driven Ecosystem
