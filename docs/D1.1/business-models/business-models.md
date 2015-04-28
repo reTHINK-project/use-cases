@@ -58,7 +58,7 @@ As depicted in figure D1.1 ##, the following Business Relationships are defined:
 
 **Interdomain C2C Relatioships:** where consumers from different domains can establish trustful adhoc relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between service providers or ecosystems.
 
-**Interdomain B2B Relatioships:** Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems.
+**Interdomain B2B Relatioships:** Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems. Such relatioships should promote global sustainability where complementary ecosystems driven by different Business Roles can cooperate in some Business Use Cases.
 
 Different Business Models and Payment models can be used to economically sustain ecosystems. A few possible Business Models are elaborated and analised in ? .
 
@@ -71,6 +71,8 @@ Different Business Models and Payment models can be used to economically sustain
 Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are ...
 
 Network Driven ecosystems are comprised with Network Infrastructure vendors, Network end-user devices, 
+
+Give examples of Interdomain B2B relatioships eg with Communication driven ..
 
 *include picture with value chain*
 
