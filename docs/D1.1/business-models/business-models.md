@@ -36,7 +36,7 @@ New generation of Messaging Service providers like WeChat, Viber, Line and other
 http://www.visionmobile.com/product/asymmetric-business-models/
 http://www.visionmobile.com/product/telco-innovation-toolbox-report/
 
-### Market Model
+### Reference Market Model
 *adapted from the DoW*
 
 Over the last decade over the top services (OTT), such as instant messaging (IM) and Voice over IP (VoIP), have revolutionized the well-established services and business models of telecommunication providers. However, applied communication standards and protocols are mainly used to create closed ecosystems, resulting in a highly fragmented market of mostly isolated communication platforms that restrict free, open and interoperable communication flows. 
@@ -49,13 +49,16 @@ The reTHINK Market Model leverage the best from these two models to create a tru
 
 ![Market Model](market-model.png)
 
-reTHINK model is based on ecosystems of service providers that cooperate to deliver services to a specific worldwide end-user (consumer) domain. Ecosystems can target very specialised and small End-user domains (e.g. freelancer lawers specialised in digital copyright) or massive and large end-users domain (e.g. teenagers). Ecosystems should be led by a Service Provider that can perform the Business Broker role (see below). Service Providers should be able to offer their products to any available Ecosystem with or without exclusive relatioships depending on the Business Models used by Ecosystem. 
+Figure D1.1 ## - reTHINK Reference Market Model
 
-The creation and management of ecosystems should be very dynamic with few, and as much as possible, automated administrative processes needed. The creation of the ecosystem should be justified by the analysis of regulated consumers behavior data.
+reTHINK Reference Market Model is based on ecosystems of service providers that cooperate to deliver services to a specific worldwide end-user (consumer) domain. Ecosystems can target very specialised and small End-user domains (e.g. freelancer lawers specialised in digital copyright) or massive and large end-users domain (e.g. teenagers). Ecosystems should be led by a Service Provider that can perform the Business Broker role (see below) but Service Providers should be free to offer their products to any available Ecosystem with or without exclusive relatioships depending on the Business Models used by the Ecosystem. 
 
-Consumers from different domains can establish trustful interdomain C2C relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between service providers or ecosystems.
+According to reTHINK Reference Market Model, the creation and management of ecosystems should be very dynamic with few, and as much as possible, automated administrative processes needed. 
+As depicted in figure D1.1 ##, the following Business Relationships are defined:
 
-Likewise, Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems.
+**Interdomain C2C Relatioships:** where consumers from different domains can establish trustful adhoc relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between service providers or ecosystems.
+
+**Interdomain B2B Relatioships:** Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems. Such relatioships should promote global sustainability where complementary ecosystems driven by different Business Roles can cooperate in some Business Use Cases.
 
 Different Business Models and Payment models can be used to economically sustain ecosystems. A few possible Business Models are elaborated and analised in ? .
 
@@ -64,6 +67,14 @@ Different Business Models and Payment models can be used to economically sustain
 *Analyse the value chain?*
 
 ##### Network driven Ecosystem
+
+Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are ...
+
+Network Driven ecosystems are comprised with Network Infrastructure vendors, Network end-user devices, 
+
+Give examples of Interdomain B2B relatioships eg with Communication driven ..
+
+*include picture with value chain*
 
 ##### Trust driven Ecosystem
 
