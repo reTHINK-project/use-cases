@@ -78,9 +78,9 @@ Network Driven ecosystems are led by Network Service Providers that invests in i
 
 Some examples of product offers for large Market Segments are:
 
-* A Bundle of services for residential customers including fixed and mobile Telephony (ruled by regulators), Broadband Internet Access, Content delivery to TV and other devices (e.g. ), SmartHome Automation (M2M/IoT) and some additional Services including Cloud Data services (eg data storage for personal content), A;
-* A Bundle of services for SME customers including fixed and mobile Enterprise Telephony (ruled by regulaters), Broadband Internet Access, Content delivery to TV and other devices, and some additional Cloud services (eg data storage for personal content);
-* A Bundle of services for Smart City Councils and its Citizens including ...
+* A Bundle of services for residential customers including Humman to Human contextual communication (ruled by regulators), Broadband Internet Access, Content delivery to TV and other devices (e.g. tablets), SmartHome Automation (M2M/IoT), Connected Car and some additional Services including Cloud Data services (eg data storage for personal content);
+* A Bundle of services for SME customers including Human to Human Contextual Business Communication (ruled by regulators), Broadband Internet Access, Data VPN, Cloud based Productivity Assisting Applications (Office like Apps), Digital Marketing etc;
+* A Bundle of services for Smart Cities including Human to Human Contextual SmartCity Communication (ruled by regulators) (including Contextual Citizen Care a la Customer Care services), eGovernance Apps, Smart City Automation (M2M/IoT), etc
 
 Some examples of specialised smaller market niches that may be led by other Service Providers from the Ecossystem than the Network Service Provider are:
 * Seniors with specials needs with service delivery focused on Assisting Living that may be led by some eHealth Service Provider
