@@ -74,17 +74,21 @@ Value chain analysis example
 
 ##### Network driven Ecosystem
 
-Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are:
+Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. 
+
+Some examples of product offers for large Market Segments are:
+
 * A Bundle of services for residential customers including fixed and mobile Telephony (ruled by regulators), Broadband Internet Access, Content delivery to TV and other devices (e.g. ), SmartHome Automation (M2M/IoT) and some additional Services including Cloud Data services (eg data storage for personal content), A;
 * A Bundle of services for SME customers including fixed and mobile Enterprise Telephony (ruled by regulaters), Broadband Internet Access, Content delivery to TV and other devices, and some additional Cloud services (eg data storage for personal content);
+* A Bundle of services for Smart City Councils and its Citizens including ...
 
-Bundles for smaller market niches should be created and could be led by other Service Providers from the Ecossystem, examples:
-* Senior individual segment market with service delivery focused on Assisting Living
+Some examples of specialised smaller market niches that may be led by other Service Providers from the Ecossystem than the Network Service Provider are:
+* Seniors with specials needs with service delivery focused on Assisting Living that may be led by some eHealth Service Provider
+* Super fan Football Club (or any other type Sport) with Service Delivery focused on exclusive sport content delivery that may be led by the Sport Club. The same concept may be applied to Super Fan Artist Club. 
+* Health profissional freelancer
 * Artist (Music) individual segment market ...
-* Football (Sport) fan segment market ..
 * Technology (Hacker) segment Market ..
 * Startup Enterpreneur Enterprse ...
-* Health profissional freelancer
 * ..
 
 
