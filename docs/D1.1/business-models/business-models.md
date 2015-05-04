@@ -58,7 +58,9 @@ As depicted in figure D1.1 ##, the following Business Relationships are defined:
 
 **Interdomain C2C Relatioships:** where consumers from different domains can establish trustful adhoc relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between service providers or ecosystems.
 
-**Interdomain B2B Relatioships:** Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems. Such relatioships should promote global sustainability where complementary ecosystems driven by different Business Roles can cooperate in some Business Use Cases.
+**Intra-ecosystem B2B Relatioships (Partnerships):** Service Providers establish Business partnerships in a certain Ecosystem  ... *to be completed*
+
+**Inter-ecosystem B2B Relatioships:** Business from different ecosystems can establish trustful inter ecosystem B2B relationships (e.g. H2H or M2M communications), with guaranteed levels of QoS if needed, avoiding the need to establish federations between ecosystems. Such relatioships should promote global sustainability where complementary ecosystems driven by different Business Roles can cooperate in some Business Use Cases.
 
 Different Business Models and Payment models can be used to economically sustain ecosystems. A few possible Business Models are elaborated and analised in ? .
 
@@ -72,7 +74,19 @@ Value chain analysis example
 
 ##### Network driven Ecosystem
 
-Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are ...
+Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. Some examples of product offers are:
+* A Bundle of services for residential customers including fixed and mobile Telephony (ruled by regulators), Broadband Internet Access, Content delivery to TV and other devices (e.g. ), SmartHome Automation (M2M/IoT) and some additional Services including Cloud Data services (eg data storage for personal content), A;
+* A Bundle of services for SME customers including fixed and mobile Enterprise Telephony (ruled by regulaters), Broadband Internet Access, Content delivery to TV and other devices, and some additional Cloud services (eg data storage for personal content);
+
+Bundles for smaller market niches should be created and could be led by other Service Providers from the Ecossystem, examples:
+* Senior individual segment market with service delivery focused on Assisting Living
+* Artist (Music) individual segment market ...
+* Football (Sport) fan segment market ..
+* Technology (Hacker) segment Market ..
+* Startup Enterpreneur Enterprse ...
+* Health profissional freelancer
+* ..
+
 
 Network Driven ecosystems are comprised with Network Infrastructure vendors, Network end-user devices, 
 
