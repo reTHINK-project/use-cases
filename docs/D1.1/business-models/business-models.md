@@ -87,12 +87,12 @@ Some examples of specialised smaller market niches that may be led by smaller Se
 * Super fan Football Club (or any other type Sport) with Service Delivery focused on exclusive sport content delivery that may be led by the Sport Club. The same concept may be applied to Super Fan Artist Club. 
 * Professional Training experts with Service Delivery focused on exclusive training experts and content that may be led by some specialised eLearning Service Provider.
 
-**Other examples that may be used in other ecossistems types:
+*Other examples that may be used in other ecossistems types:*
 * Artist (Music) individual segment market ...
 * Technology (Hacker) segment Market ..
-* Startup Enterpreneur Enterprse ...**
+* Startup Enterpreneur Enterprse ...
 
-The Value Chain of Network Driven ecosystems are comprised by (**probably we should introduce and define general Value Chain elsewhere and then we should only describe specific relationships among players for each ecossystem example**):
+The Value Chain of Network Driven ecosystems are comprised by (*probably we should introduce and define general Value Chain elsewhere and then we should only describe specific relationships among players for each ecossystem example*):
 * Network Infrastructure e.g. network routers, radio systems, microwave nodes. Network Infrastructure is provided by Vendors to Network Service Providers that will operate / manage the infrastructure to provide connectivity services 
 * end-user devices e.g. smartphones, tablets, SmartHome systems with Sensors, Atuators and Gateways. NSP can purchase end-user devices from manufacters to be directly commercialised by NSP to its customers as part of some service bundle offer.
 * network side platforms e.g. web and application servers. NSP can host these platforms in their own Data Centers with some commercial deal with platform vendors
