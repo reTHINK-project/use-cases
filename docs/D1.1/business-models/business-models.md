@@ -92,7 +92,7 @@ Some examples of specialised smaller market niches that may be led by smaller Se
 * Technology (Hacker) segment Market ..
 * Startup Enterpreneur Enterprse ...**
 
-The Value Chain of Network Driven ecosystems are comprised by:
+The Value Chain of Network Driven ecosystems are comprised by (**probably we should introduce and define general Value Chain elsewhere and then we should only describe specific relationships among players for each ecossystem example**):
 * Network Infrastructure e.g. network routers, radio systems, microwave nodes. Network Infrastructure is provided by Vendors to Network Service Providers that will operate / manage the infrastructure to provide connectivity services 
 * end-user devices e.g. smartphones, tablets, SmartHome systems with Sensors, Atuators and Gateways. NSP can purchase end-user devices from manufacters to be directly commercialised by NSP to its customers as part of some service bundle offer.
 * network side platforms e.g. web and application servers. NSP can host these platforms in their own Data Centers with some commercial deal with platform vendors
@@ -100,11 +100,10 @@ The Value Chain of Network Driven ecosystems are comprised by:
 * Core H2H and M2M Communication services e.g. Contextual Enriched Multimedia Communication services between Humans (including audio, vídeo, data transfer, presence, etc) and Building Automation systems (including energy eficciency management and security). Core H2H and M2M communication services are subject to legal policies set by the Regulator e.g. lawful communication interception, data privacy, etc. NSP can provide Core Communication services with Apps previously provisioned in end-user devices that are offered in the same service bundle. It should also be possible to have some of these services provided by NSP partners notably if services are targeting some market niche or are not subject to regulation.
 * Identity e.g. user data management including communication address, end-user context, user content like personal photos and videos. The NSP can provide higly secured and trustful Identity management services in bundle services notably in previously provisioned end-user devices featuring secure elements (eg eSIM) that are offered in the same service bundle. Such Identity management services can also be subject to legal policies set by the Regulator e.g. identity privacy.
 * Content e.g. movies, music, eBooks. The NSP can license Content from Content Providers partners with or without exclusive deals to be delivered to consumers in some service bundle (including eg IPTV). It should also be possible that the content is delivered by NSP partners notably if content is targeting some market niche.
-* Value Added Services (should we rename it to Communication Assisting Services) and Applications.
-* Regulation 
-* 
+* Value Added Services (*should we rename it to Communication Assisting Services?*) and Applications. Services and Applications that are built and delivered by partners on top of NSP assets notably Core H2H and M2M Communication services. Such services can be included in NSP service bundles or in ASP service bundles that includes NSP services targeting niche markets.
+* Regulation e.g. communication interception and privacy. Regulation is considered a value assuming related policies are designed to protect consumers e.g. from terrorists or stakeholders that abuse on the usage of personal data. In this sense it should be considered a partner and regulation policies should be designed and enforced by the NSP in a closed relationship.
+ 
 
-I
 
 *include picture with value chain*
 
