@@ -96,9 +96,13 @@ The Value Chain of Network Driven ecosystems are comprised by:
 * Network Infrastructure e.g. network routers, radio systems, microwave nodes. Network Infrastructure is provided by Vendors to Network Service Providers that will operate / manage the infrastructure to provide connectivity services 
 * end-user devices e.g. smartphones, tablets, SmartHome systems with Sensors, Atuators and Gateways. NSP can purchase end-user devices from manufacters to be directly commercialised by NSP to its customers as part of some service bundle offer.
 * network side platforms e.g. web and application servers. NSP can host these platforms in their own Data Centers with some commercial deal with platform vendors
-* Connectivity e.g. Internet Access, VPN, provided by the NSP as the core business.
-* H2H and M2M Communication services e.g. 
-* Content, Value Added Services (should we rename it to Communication Assisting Services) and Applications. **should we add Identity?**
+* Connectivity e.g. Internet Access, VPN. Connectivity is provided by the NSP as the core business.
+* Core H2H and M2M Communication services e.g. Contextual Enriched Multimedia Communication services between Humans (including audio, vídeo, data transfer, presence, etc) and Building Automation systems (including energy eficciency management and security). Core H2H and M2M communication services are subject to legal policies set by the Regulator e.g. lawful communication interception, data privacy, etc. NSP can provide Core Communication services with Apps previously provisioned in end-user devices that are offered in the same service bundle. It should also be possible to have some of these services provided by NSP partners notably if services are targeting some market niche or are not subject to regulation.
+* Identity e.g. user data management including communication address, end-user context, user content like personal photos and videos. The NSP can provide higly secured and trustful Identity management services in bundle services notably in previously provisioned end-user devices featuring secure elements (eg eSIM) that are offered in the same service bundle. Such Identity management services can also be subject to legal policies set by the Regulator e.g. identity privacy.
+* Content e.g. movies, music, eBooks. The NSP can license Content from Content Providers partners with or without exclusive deals that are than
+* Value Added Services (should we rename it to Communication Assisting Services) and Applications.
+* Regulation 
+* 
 
 I
 
