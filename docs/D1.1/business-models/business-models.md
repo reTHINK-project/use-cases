@@ -82,21 +82,30 @@ Some examples of product offers for large Market Segments are:
 * A Bundle of services for SME customers including Human to Human Contextual Business Communication (ruled by regulators), Broadband Internet Access, Data VPN, Cloud based Productivity Assisting Applications (Office like Apps), Digital Marketing etc;
 * A Bundle of services for Smart Cities including Human to Human Contextual SmartCity Communication (ruled by regulators) (including Contextual Citizen Care a la Customer Care services), eGovernance Apps, Smart City Automation (M2M/IoT), etc
 
-Some examples of specialised smaller market niches that may be led by other Service Providers from the Ecossystem than the Network Service Provider are:
+Some examples of specialised smaller market niches that may be led by smaller Service Providers from the Ecossystem with deep knowledge about the market niche:
 * Seniors with specials needs with service delivery focused on Assisting Living that may be led by some eHealth Service Provider
 * Super fan Football Club (or any other type Sport) with Service Delivery focused on exclusive sport content delivery that may be led by the Sport Club. The same concept may be applied to Super Fan Artist Club. 
-* Health profissional freelancer
+* Professional Training experts with Service Delivery focused on exclusive training experts and content that may be led by some specialised eLearning Service Provider.
+
+**Other examples that may be used in other ecossistems types:
 * Artist (Music) individual segment market ...
 * Technology (Hacker) segment Market ..
-* Startup Enterpreneur Enterprse ...
-* ..
+* Startup Enterpreneur Enterprse ...**
 
+The Value Chain of Network Driven ecosystems are comprised by:
+* Network Infrastructure e.g. network routers, radio systems, microwave nodes. Network Infrastructure is provided by Vendors to Network Service Providers that will operate / manage the infrastructure to provide connectivity services 
+* end-user devices e.g. smartphones, tablets, SmartHome systems with Sensors, Atuators and Gateways. NSP can purchase end-user devices from manufacters to be directly commercialised by NSP to its customers as part of some service bundle offer.
+* network side platforms e.g. web and application servers. NSP can host these platforms in their own Data Centers with some commercial deal with platform vendors
+* Connectivity e.g. Internet Access, VPN, provided by the NSP as the core business.
+* H2H and M2M Communication services e.g. 
+* Content, Value Added Services (should we rename it to Communication Assisting Services) and Applications. **should we add Identity?**
 
-Network Driven ecosystems are comprised with Network Infrastructure vendors, Network end-user devices, 
+I
+
+*include picture with value chain*
 
 Give examples of Interdomain B2B relatioships eg with Communication driven ..
 
-*include picture with value chain*
 
 ##### Trust driven Ecosystem
 
