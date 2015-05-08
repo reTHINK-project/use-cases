@@ -141,8 +141,16 @@ Give examples of Interdomain B2B relatioships eg with Communication driven ..
 
 ##### Service or App driven Ecosystem
 
-Application Driven ecosystems are led by Application Service Providers that delivers a specific Service or Application that is difficult to replicate by the competition e.g. a secret algorithm used to infer contextual status ..
+Application Driven ecosystems are led by Service Providers that offers a specific Core Product difficult to replicate by the competition that invests in its portfolio with complementary product offers designed to attract consumers to its Core service.
 
+Some examples for large market segments are:
+* Health status monitor product based on a highly accurate algorithm to infer health context from raw data captured by sensors. Complementary products would be: end-user devices featuring needed sensors including for SmartHome and Connected Cars, H2H contextual communication and broadband internet access.
+* Personal Music Recommendation and Player product based on a highly accurate algorithm used to select and play the most appropriate music, according to user preferences and context (mood). Complementary products would be: end-user devices featuring HiFI players and needed sensors to infer end-user mood, H2H contextual communication with immersive musical experiences and broadband internet access.
+* Life-style related 
+
+Some examples of specialised smaller market niches that may be led by smaller Service Providers from the Ecossystem with deep knowledge about the market niche:
+* end-users with a certain type of desease that must be continually monitored with special wearable devices that may be led by some eHealth Provider specialised on the desease.
+* 
 ##### Device driven Ecosystem
 
 ##### Developer driven Ecosystem?
