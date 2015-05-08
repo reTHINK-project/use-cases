@@ -97,6 +97,8 @@ A Brokerage Business Model example:
 
 #### Ecosystems sustainability
 
+The sustainability of reTHINK envisioned Market Model, as described in ?, will be based on different Business Models described in ? which are used by different ecosystems that are driven by different Market offers. The Network Driven Ecosystem and the Service or App driven Ecosystem are described below, as examples such different ecosystems. These examples, show how they coexist and successfuly offer products in a more balaced market, creating more value to consumers and preventing the Market dominance by a few players.
+
 ##### Network driven Ecosystem
 
 Network Driven ecosystems are led by Network Service Providers that invests in its product portfolio with Product Offers that highly depends on the control of the networking infrastructure notably Network QoS. 
