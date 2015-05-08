@@ -145,12 +145,14 @@ Application Driven ecosystems are led by Service Providers that offers a specifi
 
 Some examples for large market segments are:
 * Health status monitor product based on a highly accurate algorithm to infer health context from raw data captured by sensors. Complementary products would be: end-user devices featuring needed sensors including for SmartHome and Connected Cars, H2H contextual communication and broadband internet access.
-* Personal Music Recommendation and Player product based on a highly accurate algorithm used to select and play the most appropriate music, according to user preferences and context (mood). Complementary products would be: end-user devices featuring HiFI players and needed sensors to infer end-user mood, H2H contextual communication with immersive musical experiences and broadband internet access.
-* Life-style related 
+* Personal Music Recommendation and Player product that accurately selects and plays the most appropriate music, according to user preferences and context (mood). Complementary products would be: end-user devices featuring HiFI players and needed sensors to infer end-user mood, H2H contextual communication with immersive musical experiences and broadband internet access.
+* Life-experience Personal Assistance product that accurately recommends and assists the user enjoy life according to its profile and context mixing digital experiences with real world experiences.
 
 Some examples of specialised smaller market niches that may be led by smaller Service Providers from the Ecossystem with deep knowledge about the market niche:
 * end-users with a certain type of desease that must be continually monitored with special wearable devices that may be led by some eHealth Provider specialised on the desease.
-* 
+* Music Streaming providers for public places that accurately selects and plays the most appropriate music, according to users located in the place.
+* Executive coaches
+
 ##### Device driven Ecosystem
 
 ##### Developer driven Ecosystem?
