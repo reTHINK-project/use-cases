@@ -10,7 +10,7 @@ import java.net.InetAddress;
 import java.net.InetSocketAddress;
 
 /**
- * Created by ren-local on 05.01.16.
+ * Simple http server that holds wifi configuration (ssid & passphrase)
  */
 public class WifiInfoServer {
 
