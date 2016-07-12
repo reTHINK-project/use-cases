@@ -14,5 +14,5 @@ _Define main business processes to be considered for reTHINK governance purposes
 
 ## [Hyperty Life-cycle Management](hyperty-life-cycle.md)
 
-## Partnership Life-cycle Management
+## [Partnership Life-cycle Management](PartnershipLifecycleManagement.md)
 
