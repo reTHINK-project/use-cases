@@ -1,0 +1,98 @@
+@startuml "user-life-cycle.png"
+
+|User |
+start
+
+partition CreateUser {
+    :CreateGUID;
+    :GUIDProvisioned]
+}
+
+partition AssociateGUID&Identities {
+    :IdentitiesAssociation;
+    :GUIDIdentitiesProvisioned]
+}
+
+partition CreateUserPolicies {
+    :policiesCreation;
+    :policiesSet]
+}
+
+if () then
+
+if () then
+
+while (active)
+
+partition UpdateUserPolicies {
+    :policiesUpdate;
+    :policiesSet]
+}
+endwhile (inactive)
+
+else
+
+while (active)
+
+partition UpdatedGUIDIdentitiesAssociation {
+    :IdentityAssociationUpdate;
+    :GUIDIdentitiesProvisioned]
+}
+
+
+endwhile (inactive)
+
+endif
+
+stop
+
+
+else
+
+|#AntiqueWhite|ApplicationProvider|
+
+if (AccountRequired?) then (no)
+
+while (active)
+
+:UsageWithoutSubscription;
+
+endwhile (inactive)
+
+stop
+
+else (yes)
+
+partition CreateAppAccount{
+		:createApplicationAccount;
+		:associateWithIdentitiesOrIDP;
+    }
+
+|#LightRed|HypertyProvider|
+
+partition HypertyAccountCreation{
+		:createHypertyAccount;
+    :associateWithGUID;
+		:associateWithIdentitiesOrIDP;
+    :createHypertyPolicies;
+		:hypertyAccountProvisioned]
+	}
+|User |
+
+while (active)
+partition UpdateHypertyAccount{
+		:updateHypertyPreferences;
+		:updateHypertyPolicies;
+		:changeIdentitiesOrIDP;
+		:hypertyAccountUpdated;
+	}
+endwhile (unsubscribe)
+
+partition RemoveHypertyAccount{
+	:UnsubscribeUser;
+	}
+
+
+end
+
+@enduml
