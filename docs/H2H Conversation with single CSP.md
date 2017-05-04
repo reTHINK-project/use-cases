@@ -1,6 +1,6 @@
 ### Actors
 
-[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp)
+[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider)
 
 Alice is [Identified Consumer](../blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](../blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 
