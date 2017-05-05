@@ -6,7 +6,7 @@ Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob
 
 Bob is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 ### Pre-condition
-- [Alice and Bob are registered in the same CSP](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md)
+- Alice and Bob are [registered in the same CSP](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md)
 - Alice knows Bobs' Identifier, e.g. their is an addressbook similar directory or a look up directory service
 - Alice and Bob are authenticated to the CSP
 - Alice and Bob are authorized by their CSP
@@ -18,7 +18,7 @@ Users registered in the same **CSP** domain are able to setup a Audio and Video 
 3. Both Alice and Bob can see the remote and local video on their screen and hear the remote voices.
 4. When they are finished any party can hang up and the conversation is closed; the remote video and audio stops.
 #### Variants
-- #2  UC  is similar but considers inter-domain conversations. 
+- #2  UC  is similar but considers [inter-domain conversations](https://github.com/reTHINK-project/use-cases/blob/master/docs/H2H%20inter-domain%20Manageable%20Conversation.md). 
 - #68 Conversation can be only Audio i.e. a Audio Call 
 - #68 Conversation can be triggered by contextual data e.g. Emergency Service contact users in case of an alert from an specific sensor.
 ### Differentiation - market relevance
