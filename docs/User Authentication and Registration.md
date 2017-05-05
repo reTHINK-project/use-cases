@@ -2,7 +2,7 @@
 
 Consumer Alice is [Identified](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) by a [Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#service-provider)
 ### Pre-condition
-- #84 Alice has a valid credentials / account provided by the Service Provider
+- Alice has [a valid credentials / account provided by the Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/Service%20Subscription.md)
 ### Description
 
 Alice uses her App or browser to authenticate against the Service provider. After a successful authentication, relevant information for the service delivery about the device (e.g. capabilities) and surrounded context (e.g. user presence) is published. 
