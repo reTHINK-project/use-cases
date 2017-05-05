@@ -26,6 +26,6 @@ _any difference between a and b ?_
 
 basic
 ### Data Flows
-- [Subscription with external Id using a new Identity Management Paradigm that leverages the Hyperty Concept](https://github.com/reTHINK-project/architecture/blob/master/docs/uml/identity%20management/UC4-SubscriptionWithExternalId-new.md)
+- [Subscription with external Id using a new Identity Management Paradigm that leverages the Hyperty Concept](https://github.com/reTHINK-project/architecture/blob/master/docs/dynamic-view/registration%20and%20login/UC4_Registration_with_external_id.md)
 
 #84 Identity Management
