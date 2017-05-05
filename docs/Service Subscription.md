@@ -5,10 +5,10 @@
 - For Variant a) and b) Consumer has a valid Identity from an existing [Identity Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identity-service-provider)
 ### Description
 
-1- Consumer  access service provider subscription (Web) App
+1- Consumer access service provider subscription (Web) App
 2- Different subscription variants:
  a) subscribe a service using an existing consumer Identifier from a list of separated Identity Service Providers that have trustful relationships with service provider.
- b- subscribe a service using an existing consumer Identifier from a separated Identity Service Providers that does not appear in 2.a.
+ b) subscribe a service using an existing consumer Identifier from a separated Identity Service Providers that does not appear in 2.a.
  c) subscribe a service without providing an existing consumer Identifier.
 #### Subscription Variant a) and b)
 
