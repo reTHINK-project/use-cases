@@ -2,7 +2,7 @@
 
 Alice and Bob are [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that are [Conversation Participants](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 
-Alice and Bob are subscribers of different [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp).
+Alice and Bob are subscribers of different [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 ### Pre-conditions
 - #81  #83 Alice and Bob are using different CSPs, but are registered (authenticated, authorized) at the IdP of their CSP.
 - Alice knows Bob identifier
