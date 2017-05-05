@@ -6,7 +6,7 @@ Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob
 
 Bob is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 ### Pre-condition
-- #81 Alice and Bob are registered in the same CSP 
+- [Alice and Bob are registered in the same CSP] (https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md)
 - Alice knows Bobs' Identifier, e.g. their is an addressbook similar directory or a look up directory service
 - Alice and Bob are authenticated to the CSP
 - Alice and Bob are authorized by their CSP
