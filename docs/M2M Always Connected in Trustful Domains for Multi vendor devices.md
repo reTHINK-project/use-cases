@@ -24,4 +24,4 @@ Example: new washing machine is connected and discovers the HEMS (Home Energy Ma
 
 Currently, there is no standard mechanism to enable p2p adhoc connections between "smart devices". This is a market with a huge potential namely HEMS (check  http://www.greentechmedia.com/research/report/home-energy-management-systems-2013-2017).
 
-#5 M2M Communication UC
+#5 M2M Communication UC and Trusted Context
