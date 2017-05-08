@@ -12,7 +12,7 @@ Alice and Bob are subscribers of the same [Communication Service Provider](https
   Each participant is certified about the identity of remote participants by using assertions managed by an external Identity Service Provider.
 ### Description
 
-Similar to #1. 
+Similar to [H2H Conversation with single CSP](https://github.com/reTHINK-project/use-cases/blob/master/docs/H2H%20Conversation%20with%20single%20CSP.md). 
 ### Differentiation – market relevance
 
 Market relevant but not currently available. 
