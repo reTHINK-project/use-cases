@@ -1,7 +1,8 @@
 ### Actors
 
 Alice and Bob manages a set of devices from different vendors. 
-Note: Alice and Bob can be organisations or individuals
+
+Note: Alice and Bob can be organisations or individuals.
 ### Pre-conditions:
 
 [Devices are registered with their domains](https://github.com/reTHINK-project/use-cases/blob/master/docs/M2M%20Always%20Connected%20in%20Trustful%20Domains%20for%20Multi%20vendor%20devices.md).
