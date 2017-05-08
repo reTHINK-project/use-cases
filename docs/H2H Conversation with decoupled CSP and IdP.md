@@ -4,7 +4,7 @@ Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob
 
 Bob is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 
-Alice and Bob are subscribers of the same [Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp) but each one use identities managed by different [Identity Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identity-service-provider) 
+Alice and Bob are subscribers of the same [Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider) but each one use identities managed by different [Identity Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identity-service-provider) 
 ### Pre-conditions:
 - #83 Alice and Bob are registered in the same CSP using external identities provided by different IdPs. It would also be possible to have one of the peers using "native" identifiers from the CSP and the other peer using external identifiers .
 - Alice knows Bob identifier, which is provided by an external IdP
