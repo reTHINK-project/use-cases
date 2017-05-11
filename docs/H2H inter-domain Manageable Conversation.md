@@ -4,11 +4,11 @@ Alice and Bob are [Identified Consumer](https://github.com/reTHINK-project/use-c
 
 Alice and Bob are subscribers of different [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 ### Pre-conditions
-- #81  #83 Alice and Bob are using different CSPs, but are registered (authenticated, authorized) at the IdP of their CSP.
+- Alice and Bob are using different CSPs, but are [registered](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md) (authenticated, authorized) at the IdP of their CSP.
 - Alice knows Bob identifier
 ### Description
 
-Similar to #1 but in this case Alice and Bob are subscribed to different CSPs. They are using the corresponding service behavior - user interface of their CSP (e.g. Alice conversation user experience is set by its service provider).
+Similar to [H2H Conversation with single CSP](https://github.com/reTHINK-project/use-cases/blob/master/docs/H2H%20Conversation%20with%20single%20CSP.md) but in this case Alice and Bob are subscribed to different CSPs. They are using the corresponding service behavior - user interface of their CSP (e.g. Alice conversation user experience is set by its service provider).
 ### Differentiation - Market Relevance
 
 Not currently possible with Web Communications. Essential to achieve seamless interoperabilty between any user without having the need to use more than one conversational App.
