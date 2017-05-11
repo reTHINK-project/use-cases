@@ -1,6 +1,6 @@
 ### Actors
 
-Individual Consumer Alice and Organisation Bob are [Identified](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) by their [Service Providers](../blob/master/docs/D1.1/business-models/business-roles.md#service-provider)
+Individual Consumer Alice and Organisation Bob are [Identified](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) by their [Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#service-provider)
 ### Pre-conditions:
 - Alice and Bob are [registered with the service provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md)
 - Alice knows Bob e.g. Alice founds Bob web page when browsing the Web
