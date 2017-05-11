@@ -4,7 +4,7 @@ Alice and Bob are [Identified Consumer](https://github.com/reTHINK-project/use-c
 
 Alice and Bob are subscribers of different and incompatible [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider)  e.g. WebRTC based and PSTN telephony.
 
-**Inter** is a [Communication Service Provider)](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider) providing different Telephony Gateway services.
+**Inter** is a [Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider) providing different Telephony Gateway services.
 ### Pre-conditions:
 - #81  #83 Alice and Bob are registered in different CSP.
 - Alice knows Bob identifier
