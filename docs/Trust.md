@@ -1,10 +1,10 @@
 ### Actors:
 
-[Communication Service Provider](../blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp)
+[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp)
 
-Alice is [Identified Consumer](../blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](../blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
+Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 
-Bob is (partial) [Identified Consumer](../blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](../blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
+Bob is (partial) [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant)
 ### Pre-conditions:
 1. Bob initiates an audio-/video conversation by using Alices's Identifier.
 2. The call is notified to Alice.
@@ -16,5 +16,7 @@ In Alices's display an indicator is shown (e.g. a yellow symbol) that there is n
 
 In Alices's display an indicator is shown (e.g. a red symbol) that there are indications that Bovb is not a trusted identity
 ### Differentiation - market relevance
+
+
 
 #38 H2H Communication UC, Identity Management
