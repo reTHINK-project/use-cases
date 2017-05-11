@@ -1,4 +1,4 @@
-Objective: 
+### Objective: 
 Adaptive trust level at conversation runtime
 ### Actors:
 
