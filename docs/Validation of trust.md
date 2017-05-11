@@ -2,7 +2,7 @@ Objective:
 Adaptive trust level at conversation runtime
 ### Actors:
 
-[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp)
+[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider)
 
 Alice is a participant of the communication. It is first anonymously connected but then authentify when requested. She has one or more IdP.
 
