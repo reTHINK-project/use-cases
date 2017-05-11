@@ -1,6 +1,6 @@
 ### Actors
 
-Alice is a [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is subscribed to a [Communication Service Providers](../blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp).
+Alice is a [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is subscribed to a [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 ### Pre-condition
 - Alice is [registered](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md) 
 - #1 #2 #86 Alice has had several Conversations, some of them were recorded 
