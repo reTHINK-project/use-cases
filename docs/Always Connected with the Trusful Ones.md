@@ -4,7 +4,7 @@ Alice and Bob are [Identified Consumer](https://github.com/reTHINK-project/use-c
 
 Alice and Bob are subscribers of [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 ### Pre-conditions:
-- #81  #83 Alice and Bob are registered in their CSPs.
+- Alice and Bob are [registered in their CSPs](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md).
 - Alice and Bob trust each other e.g. they are married -> _TODO: link to trust management Use Cases?_
 - Alice and Bob context are published and known by each other _TODO: link to human context management_
 ### Description
