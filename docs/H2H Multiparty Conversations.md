@@ -1,6 +1,6 @@
 ### Actors
 
-Alice, Bob and Daniel are [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that are subscribers of different [Communication Service Providers](../blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp).
+Alice, Bob and Daniel are [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that are subscribers of different [Communication Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 
 Carol is a [Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that has no known CSP subscription.
 ### Pre-condition
@@ -29,7 +29,7 @@ During the conversation, Alice, as the meeting organiser has more privileges tha
 
 **Implementation Note:** two main approaches:
 1. No media Server is used and all peers must be connected to each other. Since the usage of bandwitdth and cpu of WebRTC end-points, exponentially increases with number of participants, it should only be used for small meeting conversations. 
-2. A Media Server is used and a Star connection topology is used i.e., all media and data connections from participants must be established with the Media Server. With this approach #13 Use Case is used to support dynamic "provisioning" of the Media Server in the Conversation.
+2. A Media Server is used and a Star connection topology is used i.e., all media and data connections from participants must be established with the Media Server. With this approach [Dynamic Media Server or Media Gateway provisioning](https://github.com/reTHINK-project/use-cases/blob/master/docs/Dynamic%20Media%20Server%20or%20Media%20Gateway%20provisioning.md) Use Case is used to support dynamic "provisioning" of the Media Server in the Conversation.
 #### Variants
 1. A "Meeting Room" approach may be used where participants knows the Conversation address that is e.g. inserted in a Calendar, and Participants would join the meeting by using the conversation address
 2. Participants can join the Conversation by using Anonymous or Fake identities as defined in #63 use case
