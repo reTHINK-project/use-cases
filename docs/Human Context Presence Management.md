@@ -1,8 +1,8 @@
 ### Actors
 
-Alice and Bob are [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that are subscribers of different [Context Service Providers](../blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp).
+Alice and Bob are [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that are subscribers of different [Context Service Providers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider).
 ### Pre-conditions:
-- #81 #83 Alice and Bob are [registered in different CSPs](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md) 
+- Alice and Bob are [registered in different CSPs](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md) 
 - Alice knows Bob Identifier
 ### Description:
 - Alice asks authorisation to Bob to subscribe to his Context / Presence
