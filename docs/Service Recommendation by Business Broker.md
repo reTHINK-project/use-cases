@@ -1,6 +1,6 @@
 ### Actors
 
-Alice is a [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is subscribed to a [Business Broker](../blob/master/docs/D1.1/business-models/business-roles.md#business-broker).
+Alice is a [Identified Consumers](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is subscribed to a [Business Broker](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#business-broker).
 
 A new Service Offer (Product) is published by a [Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#service-provider) to the Business Broker.
 ### Pre-condition
