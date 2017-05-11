@@ -1,10 +1,10 @@
 ### Actors
 
-[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider-csp), which sells bridges to pro-conf calls.
+[Communication Service Provider](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#communication-service-provider), which sells bridges to pro-conf calls.
 
-Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](../blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant) of the conf call.
+Alice is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant) of the conf call.
 
-Bob is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](../blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant) of the conf call.
+Bob is [Identified Consumer](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#identified-service-consumer) that is a [Conversation Participant](https://github.com/reTHINK-project/use-cases/blob/master/docs/D1.1/business-models/business-roles.md#conversation--communication-participant) of the conf call.
 ### Pre-condition
 - Alice and Bob are [subscribers in the CSP](https://github.com/reTHINK-project/use-cases/blob/master/docs/User%20Authentication%20and%20Registration.md) and rely it.
 - Alice and Bob have a rendez vous on this conf call bridge.
