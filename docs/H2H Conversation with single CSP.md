@@ -19,8 +19,7 @@ Users registered in the same **CSP** domain are able to setup a Audio and Video 
 4. When they are finished any party can hang up and the conversation is closed; the remote video and audio stops.
 #### Variants
 - UC  is similar but considers [inter-domain conversations](https://github.com/reTHINK-project/use-cases/blob/master/docs/H2H%20inter-domain%20Manageable%20Conversation.md). 
-- #68 Conversation can be only Audio i.e. a Audio Call 
-- #68 Conversation can be triggered by contextual data e.g. Emergency Service contact users in case of an alert from an specific sensor.
+- Conversation can be triggered by contextual data e.g. Emergency Service contact users in case of an alert from an specific sensor.
 ### Differentiation - market relevance
 
 basic
